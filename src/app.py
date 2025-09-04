@@ -117,6 +117,13 @@ def display_menu_item_details(item):
             st.write("영양 정보가 없습니다.")
 
     if st.button("<< 뒤로가기"):
+        # Set the active brand back to the brand of the item just viewed
+        brand_mapping = {
+            "Starbucks": "스타벅스",
+            "Ediya": "이디야",
+            "Gong Cha": "공차"
+        }
+        st.session_state['active_brand'] = brand_mapping.get(item.get('brand'), "스타벅스") # Default to Starbucks if brand not found
         del st.session_state['selected_item']
         st.rerun()
 
@@ -163,12 +170,22 @@ def kiosk_mode(starbucks_data, ediya_data, gongcha_data):
         display_menu_item_details(st.session_state['selected_item'])
     else:
         st.header("키오스크 모드")
-        tab_starbucks, tab_ediya, tab_gongcha = st.tabs(["스타벅스 (Starbucks)", "이디야 (Ediya)", "공차 (Gong Cha)"])
-        with tab_starbucks:
+        
+        # Initialize active_brand if not already set
+        if 'active_brand' not in st.session_state:
+            st.session_state.active_brand = "스타벅스"
+
+        brand_options = ["스타벅스", "이디야", "공차"]
+        
+        selected_brand = st.radio("브랜드 선택", brand_options, key="brand_selector", index=brand_options.index(st.session_state.active_brand))
+        
+        st.session_state.active_brand = selected_brand
+
+        if selected_brand == "스타벅스":
             display_menu_grid(starbucks_data, "스타벅스")
-        with tab_ediya:
+        elif selected_brand == "이디야":
             display_menu_grid(ediya_data, "이디야")
-        with tab_gongcha:
+        elif selected_brand == "공차":
             display_menu_grid(gongcha_data, "공차")
 
 # --- Chatbot Mode ---
