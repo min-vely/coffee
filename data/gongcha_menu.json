@@ -1,0 +1,1394 @@
+[
+    {
+        "brand": "Gong Cha",
+        "name": "그릭요거티 & 피치 크러쉬",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/ad153d925cffc34302f8b40d380f9e95.png",
+        "description": "그릭데이 시그니처 요거트에 향긋한 자스민티, 달콤한 복숭아를 더한 크러쉬 입니다.",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "355g",
+            "단백질": "55g",
+            "포화지방": "8g",
+            "나트륨": "5mg",
+            "카페인": "112mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "그릭요거티 & 펄 크러쉬",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/362dd209a9efa44ea7ab0eadeb1ccc1a.png",
+        "description": "그릭데이 시그니처 요거트에 얼그레이티가 블렌딩된 밀크티 크러쉬입니다.",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "344g",
+            "단백질": "41g",
+            "포화지방": "8g",
+            "나트륨": "8mg",
+            "카페인": "46mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "그릭요거티 & 망고 크러쉬",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/a7160f02d9e8d246ad92bd30bfab0059.png",
+        "description": "그릭데이 시그니처 요거트에 향긋한 자스민티와 달콤한 망고가 들어간 크러쉬 입니다.",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "379g",
+            "단백질": "46g",
+            "포화지방": "8g",
+            "나트륨": "8mg",
+            "카페인": "50mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "그릭요거티 & 딸기 크러쉬",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/1f097dccb31099d56a304aa5d32d0910.png",
+        "description": "그릭데이 시그니처 요거트에 딸기와 얼그레이티가 더해진 크러쉬 입니다.",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "377g",
+            "단백질": "47g",
+            "포화지방": "8g",
+            "나트륨": "8mg",
+            "카페인": "64mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "핑크 피치 밀크티",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/a212e50f4b670fdf12f6891f5872b22e.png",
+        "description": "향긋한 자스민티에 달콤한 복숭아와 화이트펄을 더한 밀크티입니다.",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "223g",
+            "단백질": "39g",
+            "포화지방": "4g",
+            "나트륨": "3mg",
+            "카페인": "137mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "피치 망고 스무디",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/a575a1b8762a5188bb731970c48c8eb7.png",
+        "description": "달콤한 복숭아와 망고를 탱글탱글 그린티 망고 젤리와 함께 즐기는 스무디입니다.",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "370g",
+            "단백질": "69g",
+            "포화지방": "0g",
+            "나트륨": "4mg",
+            "카페인": "117mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "피치 우롱티",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/fbb3ecc5332e0a0840b9a1c6a7881b89.png",
+        "description": "달콤한 복숭아에 우롱티를 더해 향긋하게 즐기는 프룻티 입니다.",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "651kcal",
+            "당류": "81g",
+            "단백질": "18g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "51mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "브라운슈가 밀크티 펄 쉐이크",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/a322fa1f776361ef0141e98ae70d2159.png",
+        "description": "달콤한 브라운 슈가와 공차의 시그니처 블랙 밀크티를 말랑 쫀득한 펄 토핑과 함께 크리미하고 꾸덕한 밀크티 쉐이크로 즐겨보세요.",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "635g",
+            "단백질": "75g",
+            "포화지방": "5g",
+            "나트륨": "19mg",
+            "카페인": "378mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "블랙 밀크티 펄 쉐이크",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/297a67856cf7c3b50caa78d84080e742.png",
+        "description": "공차의 시그니처 블랙 밀크티를 말랑 쫀득한 펄 토핑과 함께 크리미하고 꾸덕한 밀크티 쉐이크로 즐겨보세요.",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "605g",
+            "단백질": "68g",
+            "포화지방": "5g",
+            "나트륨": "19mg",
+            "카페인": "377mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "수박 우롱 아이스티",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/06e4c9506af727254cf2e8f0150b1b0a.png",
+        "description": "‘수박 우롱‘ 키워드를 공차만의 프리미엄 Tea로 재해석한 여름 한정 음료",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "143g",
+            "단백질": "32g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "13mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "수박 샤워 아이스티",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/cac2c822c5b64436ce62510f0658a383.png",
+        "description": "수박의 청량함을 은은한 자스민티 말캉한 알로에와 함께 즐기는 맑고 산뜻한 여름 한정 음료",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "143g",
+            "단백질": "32g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "13mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "수박 샤워 펄 크러쉬",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/b94e03e9753b19b689a042e424e95f49.png",
+        "description": "수박의 달콤함과 공차만의 시그니처 펄, 수박맛 워터젤리의 식감까지 음료 한 잔으로 모두 즐길 수 있는 여름 한정 음료",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "298g",
+            "단백질": "59g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "30mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "타로 쥬얼리 시그니처 스무디",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250625/WMY5JgvGR7Pmluwx_20250625.png",
+        "description": "고소한 타로 베이스에 부드러운 타로폼, 쫀득한 타로 쥬얼리를 더해 진한 타로의 매력을 시원하게 즐기는 시그니처 타로 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "503g",
+            "단백질": "65g",
+            "포화지방": "3g",
+            "나트륨": "11mg",
+            "카페인": "194mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "타로 쥬얼리 시그니처 밀크티",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250625/VsSEW4gNatkPArzD_20250625.png",
+        "description": "고소한 타로 베이스에 부드러운 타로폼, 쫀득한 타로 쥬얼리를 더해 진한 타로의 매력을 담은 시그니처 타로 밀크티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "331g",
+            "단백질": "33g",
+            "포화지방": "6g",
+            "나트륨": "8mg",
+            "카페인": "186mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "로얄 밀크티 팥 빙수 쉐이크",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250617/4UtlHqVroMvAJi5T_20250617.png",
+        "description": "고급스러운 맛과 향의 밀크티 스무디에 달달한 팥과 쫀득한 펄을 더해 즐기는 컵빙수",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "514g",
+            "단백질": "68g",
+            "포화지방": "4g",
+            "나트륨": "10mg",
+            "카페인": "156mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "말차 팥 빙수 쉐이크",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250617/93eRl1Xxhao6UGTI_20250617.png",
+        "description": "달콤쌉싸름한 깔끔한 말차 스무디에 달달한 팥과 쫀득한 펄을 더해 즐기는 컵빙수",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "407g",
+            "단백질": "60g",
+            "포화지방": "5g",
+            "나트륨": "6mg",
+            "카페인": "191mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "초코바른 트리플 초코 스무디",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250604/YdjIDEzHy29avFU0_20250604.png",
+        "description": "향긋한 얼그레이티에 두가지 플레이버 초콜릿과 바삭한 크로칸트를 더하여 달콤한 쿠키와 함께 즐기는 더블 초코 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "673g",
+            "단백질": "66g",
+            "포화지방": "8g",
+            "나트륨": "20mg",
+            "카페인": "496mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "초코바른 민트 쿠키 스무디",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250604/cI7sg0dPjO58mnh4_20250604.png",
+        "description": "향긋한 자스민티로 만든 민트 스무디에 바삭한 크로칸트 초코와 달콤한 쿠키를 더해 즐기는 민트 초코 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "567g",
+            "단백질": "72g",
+            "포화지방": "5g",
+            "나트륨": "15mg",
+            "카페인": "349mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "멜론 멜론 젤리 크러쉬",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250513/kRtv9Sb3ZNQH1T0x_20250513.png",
+        "description": "향긋한 얼그레이티에 달콤한 칸탈루프 멜론과 상큼한 그린티 망고 젤리를 더해 달콤하게 즐기는 시즌 크러쉬",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "412g",
+            "단백질": "66g",
+            "포화지방": "1g",
+            "나트륨": "7mg",
+            "카페인": "78mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "멜론 멜론 젤리 밀크티",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250513/U193aNo6dkHuBhRY_20250513.png",
+        "description": "향긋한 얼그레이티를 더한 달콤한 칸탈루프 멜론에 상큼한 그린티 망고 젤리, 단짠 밀크폼을 토핑하여 부드럽게 즐기는 시즌 밀크티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "330g",
+            "단백질": "51g",
+            "포화지방": "4g",
+            "나트륨": "6mg",
+            "카페인": "190mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "멜론 멜론 밀크티",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250513/d5Nrb2VRoYQl8Snx_20250513.png",
+        "description": "향긋한 자스민티에 달콤한 칸탈루프 멜론과 사각사각 알로에를 더하여 달콤하고 싱그럽게 즐기는 시즌 밀크티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "245g",
+            "단백질": "41g",
+            "포화지방": "5g",
+            "나트륨": "4mg",
+            "카페인": "89mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "브라운슈가 시그니처 밀크티 +미니펄",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250416/5ghMsfD3PN8HEvx1_20250416.png",
+        "description": "공차의 브라운슈가 메뉴와 시그니처 밀크티인 블랙 밀크티의 조화! 블랙티의 깊은 풍미, 말랑 쫀득 미니펄, 달콤한 브라운슈가와 함께 즐기는 공차의 시그니처 밀크티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "410g",
+            "단백질": "41g",
+            "포화지방": "1g",
+            "나트륨": "12mg",
+            "카페인": "62mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "브라운슈가 시그니처 밀크티 +펄",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250416/LbxWr5HMy3IFqf2c_20250416.png",
+        "description": "공차의 브라운슈가 메뉴와 시그니처 밀크티인 블랙밀크티의 조화! 블랙티의 깊은 풍미, 토핑 No.1인 쫀득쫀득한 펄, 달콤한 브라운슈가와 함께 즐기는 공차의 시그니처 밀크티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "416g",
+            "단백질": "40g",
+            "포화지방": "1g",
+            "나트륨": "12mg",
+            "카페인": "63mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "납작 복숭아 아이스티 얼그레이",
+        "category": "New 시즌 메뉴",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250331/KP5iNEMZobCDO0GH_20250331.png",
+        "description": "직접 우린 향긋한 공차 얼그레이 티로 시원하게 즐기는 공차 아이스티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "651kcal",
+            "당류": "6g",
+            "단백질": "0g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "1mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "블랙 밀크티 + 펄 1L",
+        "category": "베스트셀러",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/06e5884ef2e76be9a0e78e50b3c60842.png",
+        "description": "공차의 베스트셀러 블랙밀크티를 대용량으로 시원하게 즐기는 ​  배달 한정 메뉴입니다.​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "1000kcal",
+            "당류": "825g",
+            "단백질": "55g",
+            "포화지방": "2g",
+            "나트륨": "32mg",
+            "카페인": "142mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "허니 자몽 블랙티",
+        "category": "베스트셀러",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240923/5idab4SMXhrRHqyP_20240923.png",
+        "description": "달콤 쌉싸름한 허니 자몽에 깊고 진한 블랙티를 더한 프룻티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "126g",
+            "단백질": "24g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "23mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "미니펄 망고 밀크 + 리얼 망고",
+        "category": "베스트셀러",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250117/FP8klLs4uyixj2EN_20250117.png",
+        "description": "망고를 2배로 듬뿍 넣어 더욱 풍성해진 미니펄 망고 밀크",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "338g",
+            "단백질": "40g",
+            "포화지방": "6g",
+            "나트륨": "6mg",
+            "카페인": "110mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "초콜렛 밀크티 + 치즈폼",
+        "category": "베스트셀러",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250121/y2OrnDJ10946wZWm_20250121.png",
+        "description": "부드러운 밀크에 녹아든 진한 초콜렛을 느낄 수 있는 초콜렛 밀크티와 치즈폼",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "294g",
+            "단백질": "5g",
+            "포화지방": "4g",
+            "나트륨": "14mg",
+            "카페인": "192mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "제주 그린 밀크티 + 펄",
+        "category": "베스트셀러",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250121/sNgOmcFCZzvYXVHb_20250121.png",
+        "description": "제주산 녹차를 사용하여 쌉싸름한 맛과 우유의 풍부한 맛이 돋보이는 그린 밀크티와 쫄깃쫄깃한 펄의 콤비네이션",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "253g",
+            "단백질": "25g",
+            "포화지방": "7g",
+            "나트륨": "4.8mg",
+            "카페인": "106mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "아메리카노",
+        "category": "베스트셀러",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250117/w4tFdISjs9eD1pLB_20250117.png",
+        "description": "브라질, 콜롬비아 외 대표적인 원두 5가지를 블렌딩하여 찾은 최적의 맛",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "10g",
+            "단백질": "0g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "0mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "딸기 쿠키 스무디 + 펄",
+        "category": "베스트셀러",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240429/JWpEolv9TRC1iIQP_20240429.png",
+        "description": "얼그레이티로 만든 밀크 스무디에 달콤한 딸기와 바삭한 쿠키를 더한 스무디와 쫄깃쫄깃한 펄",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "712g",
+            "단백질": "75g",
+            "포화지방": "4g",
+            "나트륨": "19mg",
+            "카페인": "270mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "우롱티 + 코코넛 + 밀크폼",
+        "category": "베스트셀러",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/VDRPhvZwEBzUJIfg_20231115.png",
+        "description": "깊고 고소한 우롱차에 코코넛 젤리와  달콤짭쪼름한 밀크폼을 올려 다양한 식감과 함께 부드럽게 즐기는 오리지널티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "137g",
+            "단백질": "13g",
+            "포화지방": "1g",
+            "나트륨": "4.5mg",
+            "카페인": "143mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "망고 요구르트 + 화이트펄",
+        "category": "베스트셀러",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/nL6pMQjkGerPOCZA_20231115.png",
+        "description": "달콤한 망고 과육과 요구르트에 화이트펄의 꼬들꼬들함이 느껴지는 주스",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "214g",
+            "단백질": "40g",
+            "포화지방": "1g",
+            "나트륨": "0mg",
+            "카페인": "34mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "타로 밀크티 + 펄",
+        "category": "베스트셀러",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/CgONprGDWfzRIvqo_20231115.png",
+        "description": "고소한 타로밀크티와 쫀득한 펄이 만난 공차의 베스트 셀러",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "344g",
+            "단백질": "18g",
+            "포화지방": "1g",
+            "나트륨": "11mg",
+            "카페인": "79mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "블랙 밀크티 + 펄",
+        "category": "베스트셀러",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/WwyYAVsMzFxeN8J6_20231115.png",
+        "description": "공차 대표 메뉴 블랙밀크티와 쫄깃쫄깃한 펄의 콤비네이션",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "290g",
+            "단백질": "8g",
+            "포화지방": "1g",
+            "나트륨": "12mg",
+            "카페인": "74mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "미니펄 망고 밀크",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240327/29brAgmf1ieZPcJB_20240327.png",
+        "description": "코코넛 베이스에 달콤한 애플 망고와 쫄깃한 코코넛젤리,쫀득한 미니펄까지 더해 풍성하게 즐기는 시즌 한정 음료",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "301g",
+            "단백질": "33g",
+            "포화지방": "6g",
+            "나트륨": "6mg",
+            "카페인": "110mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "미니펄 딸기 밀크티",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240327/Uvi81CDRg0yEcGa7_20240327.png",
+        "description": "신선한 코코넛 밀크에 향긋한 얼그레이티를 블렌딩하고 상큼한 딸기 슬라이스와 쫄깃한 코코넛젤리,쫀득한 미니펄까지 더해 풍성하게 즐기는 시즌 한정 음료",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "296g",
+            "단백질": "40g",
+            "포화지방": "4g",
+            "나트륨": "3.7mg",
+            "카페인": "82mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "피스타치오 밀크티",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20250121/FKcPN5ejrz8qld7m_20250121.png",
+        "description": "그린티를 넣은 달콤하고 고소한 피스타치오 밀크티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "227g",
+            "단백질": "25g",
+            "포화지방": "7g",
+            "나트륨": "5mg",
+            "카페인": "147mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "제주 그린 밀크티",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/dKwfQu1R8oV32Sma_20231115.png",
+        "description": "제주 녹차를 사용하여 쌉싸름한 맛과 달콤한 맛이 어우러진 밀크티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "184g",
+            "단백질": "16g",
+            "포화지방": "7g",
+            "나트륨": "4mg",
+            "카페인": "83mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "브라운슈가 쥬얼리 밀크티",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/aoY1bcB9TKfsO7GZ_20231115.png",
+        "description": "부드럽고 달콤한 브라운 슈가 쥬얼리와 신선한 우유의 맛이 느껴지는 밀크티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "339g",
+            "단백질": "35g",
+            "포화지방": "6g",
+            "나트륨": "7mg",
+            "카페인": "183mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "딸기 쥬얼리 밀크티",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/LGKUs2ajSpTBhzYk_20231115.png",
+        "description": "얼그레이티로 만든 밀크티에 리얼 딸기 과즙이 함유된 새콤달콤한 딸기 쥬얼리를 더한 음료 (딸기 함량 UP!)  (ONLY ICED)",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "237g",
+            "단백질": "29g",
+            "포화지방": "5g",
+            "나트륨": "3.6mg",
+            "카페인": "100mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "얼그레이 밀크티",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/9xwznivJydT0DYVE_20231115.png",
+        "description": "베르가못 향의 얼그레이티(홍차)와 밀크가 부드러운 조화를 이루는 밀크티 (HOT / ICED)​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "208g",
+            "단백질": "3g",
+            "포화지방": "1g",
+            "나트륨": "12mg",
+            "카페인": "67mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "자스민 밀크티",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240502/pj8EhMdRBctLfoqS_20240502.png",
+        "description": "향긋한 꽃 향이 느껴지는 자스민티를 부드럽게 즐기는 밀크티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "209g",
+            "단백질": "3g",
+            "포화지방": "1g",
+            "나트륨": "12mg",
+            "카페인": "67mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "우롱 밀크티",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/KckP6LqYSrsg2oO3_20231115.png",
+        "description": "묵직하고 깊은 향의 우롱차에 밀크가 더해진 우롱밀크티 (HOT / ICED)​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "208g",
+            "단백질": "3g",
+            "포화지방": "1g",
+            "나트륨": "12mg",
+            "카페인": "67mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "블랙 밀크티",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/zfxjLRHbr3UspClq_20231115.png",
+        "description": "진한 향과 맛을 느낄 수 있는 블랙티(홍차)와 밀크의 만남 (HOT / ICED)​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "209g",
+            "단백질": "3g",
+            "포화지방": "1g",
+            "나트륨": "12mg",
+            "카페인": "67mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "타로 밀크티",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/6zdDsPYeGCLI5X0l_20231115.png",
+        "description": "타로의 고소함과 밀크의 조합 (HOT / ICED)​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "263g",
+            "단백질": "12g",
+            "포화지방": "1g",
+            "나트륨": "11mg",
+            "카페인": "73mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "초콜렛 밀크티",
+        "category": "밀크티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/9Ih8WbajNp5EPCeR_20231115.png",
+        "description": "부드러운 밀크에 녹아든 진한 초콜렛을 느낄 수 있는 초콜렛 밀크티 (HOT / ICED)",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "196g",
+            "단백질": "2g",
+            "포화지방": "4g",
+            "나트륨": "9mg",
+            "카페인": "38mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "초코바른 초코 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/ddeae35c82ab7d4a0a980ca2b7ec8121.png",
+        "description": "달콤한 초코 쿠키 스무디에 달콤짭조름한 치즈폼, 컵에 둘러진 초콜렛으로 비쥬얼을 더한 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "644g",
+            "단백질": "47g",
+            "포화지방": "5g",
+            "나트륨": "26mg",
+            "카페인": "243mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "초코바른 제주 그린 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/80ccf4416554146202bd2a1e98d2c43c.png",
+        "description": "제주 녹차로 만든 스무디에 쿠키분태, 달콤짭조름한 치즈폼, 컵에 둘러진 초콜렛으로 비쥬얼을 더한 스무디​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "536g",
+            "단백질": "62g",
+            "포화지방": "3g",
+            "나트륨": "17mg",
+            "카페인": "189mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "초코바른 피스타치오 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/2f9a831df83c1cbe97144b951913469f.png",
+        "description": "자스민티를 넣은 달콤하고 고소한 피스타치오 스무디에 바삭하게 깨지는 초코바른과 쿠키로 식감을 더한 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "496g",
+            "단백질": "54g",
+            "포화지방": "3g",
+            "나트륨": "15mg",
+            "카페인": "204mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "밀크 쿠앤크 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240429/q2tpZrCNbjQTGHon_20240429.png",
+        "description": "달콤하고 바삭한 쿠키가 가득 들어간 밀크 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "498g",
+            "단백질": "47g",
+            "포화지방": "2g",
+            "나트륨": "17mg",
+            "카페인": "192mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "브라운슈가 쥬얼리 치즈폼 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240429/UGqlQg5sk7E6HjLb_20240429.png",
+        "description": "부드럽고 달콤한 브라운 슈가 쥬얼리와 달콤짭조름한 치즈폼을 더한 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "610g",
+            "단백질": "58g",
+            "포화지방": "2g",
+            "나트륨": "18mg",
+            "카페인": "275mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "미니펄 망고 크러쉬",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240327/cupJntTH04YDqo1a_20240327.png",
+        "description": "신선한 코코넛 크러쉬에  달콤한 애플 망고와쫀득한 미니펄을 더해 특별하게 즐기는 시즌 한정 음료",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "427g",
+            "단백질": "47g",
+            "포화지방": "1g",
+            "나트륨": "10mg",
+            "카페인": "111mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "미니펄 딸기 크러쉬",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240327/9DwQIZjShcRu6MfN_20240327.png",
+        "description": "신선한 코코넛 크러쉬에 상큼한 딸기 슬라이스와 딸기 시럽, 쫀득한 미니펄을 더해 특별하게 즐기는 시즌 한정 음료",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "489g",
+            "단백질": "61g",
+            "포화지방": "2g",
+            "나트륨": "10mg",
+            "카페인": "127mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "타로 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240227/NnwVKyO7g5kAxacf_20240227.png",
+        "description": "고소한 타로가 듬뿍 들어가 진하고 달콤하게 즐길 수 있는 시즌 컴백 한정 음료",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "360g",
+            "단백질": "45g",
+            "포화지방": "1g",
+            "나트륨": "9mg",
+            "카페인": "95mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "레몬 요구르트 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240227/zNGaLyUAECKpkife_20240227.png",
+        "description": "상큼한 레몬 베이스에 달콤한 요구르트가 함께 어우려져 시원하게 즐길 수 있는 시즌 컴백 한정 음료",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "352g",
+            "단백질": "68g",
+            "포화지방": "2g",
+            "나트륨": "1.8mg",
+            "카페인": "104mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "초코멜로 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/0N6oXEz3k8M9FS2Z_20231115.png",
+        "description": "깊은 풍미의 초콜렛 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "480g",
+            "단백질": "52g",
+            "포화지방": "5g",
+            "나트륨": "12mg",
+            "카페인": "421mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "초콜렛 쿠키 & 크림 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/jS4qkFwE2bAnafXY_20231115.png",
+        "description": "진한 초코 스무디에 바삭한 쿠키와 밀크폼이 더해진 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "553g",
+            "단백질": "40g",
+            "포화지방": "6g",
+            "나트륨": "18mg",
+            "카페인": "201mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "딸기 쿠키 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/7txl5jVWhbuIcvEM_20231115.png",
+        "description": "얼그레이티로 만든 밀크 스무디에 달콤한 딸기와 바삭한 쿠키를 더한 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "630g",
+            "단백질": "70g",
+            "포화지방": "4g",
+            "나트륨": "19mg",
+            "카페인": "264mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "딸기 쥬얼리 요구르트 크러쉬",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/lLXORwPnSU3yrta5_20231115.png",
+        "description": "얼그레이티를 넣어 만든 요구르트 크러쉬에 리얼 딸기 과즙이 함유된 새콤달콤한 딸기 쥬얼리를 더한 음료 (ONLY ICED)",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "386g",
+            "단백질": "66g",
+            "포화지방": "2g",
+            "나트륨": "1.9mg",
+            "카페인": "95mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "제주 그린 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/UQK9Fp1lSXd5C6Wc_20231115.png",
+        "description": "녹차가루와 부드러운 밀크폼을 함께 즐길 수 있는 제주 그린 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "529g",
+            "단백질": "65g",
+            "포화지방": "3g",
+            "나트륨": "15mg",
+            "카페인": "197mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "망고 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/W9mOb8cKR5EhZVPF_20231115.png",
+        "description": "농축된 달콤한 망고와 밀크를 함께 갈아만든 망고 스무디(ONLY ICED)​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "417g",
+            "단백질": "58g",
+            "포화지방": "1g",
+            "나트륨": "7mg",
+            "카페인": "86mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "청포도 스무디",
+        "category": "스무디",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/dOHWQXytqpmFL2Ju_20231115.png",
+        "description": "시원달콤한 청포도과즙과 알로에 알갱이가 쏙쏙 들어오는 재미가 일품인 청포도 스무디",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "365g",
+            "단백질": "78g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "1mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "자스민티",
+        "category": "오리지널 티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240502/oi0TeUWa14CDEpxt_20240502.png",
+        "description": "향긋한 꽃향이 느껴지는 싱그럽고 부드러운 자스민티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "4g",
+            "단백질": "0g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "1mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "우롱티",
+        "category": "오리지널 티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/YWuQ6gHmNry1iLj3_20231115.png",
+        "description": "묵직하고 깊은 향을 간직한 고소한 우롱차 (HOT / ICED)​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "3g",
+            "단백질": "0g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "1mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "블랙티",
+        "category": "오리지널 티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/28QPiyXS6LblsxNZ_20231115.png",
+        "description": "진한 향과 감미로운 맛을 느낄 수있는 대표적인 홍차, 블랙티 (HOT / ICED)​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "4g",
+            "단백질": "0g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "2mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "얼그레이티",
+        "category": "오리지널 티",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/W6G8L1JZUv7xqydc_20231115.png",
+        "description": "향긋한 베르가못향이 가미된 얼그레이티 (HOT / ICED)​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "3g",
+            "단백질": "0g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "2mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "망고 자스민티 + 화이트펄 1L",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/3bab9a0fac58873883b70e58a288b400.png",
+        "description": "향긋한 자스민티에 망고를 넣어 대용량으로 달콤하게 즐기는 프룻티입니다. ​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "1000kcal",
+            "당류": "534g",
+            "단백질": "107g",
+            "포화지방": "1g",
+            "나트륨": "0mg",
+            "카페인": "64mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "허니 자몽 블랙티",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240923/5idab4SMXhrRHqyP_20240923.png",
+        "description": "달콤 쌉싸름한 허니 자몽에 깊고 진한 블랙티를 더한 프룻티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "126g",
+            "단백질": "24g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "23mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "청포도 크림치즈폼",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240522/XkCVEJruR2eWKDdh_20240522.png",
+        "description": "새콤 달콤한 청포도 음료를 산뜻하고 부드러운 크림치즈폼과 함께 시원하게 무더운 여름철에 즐길 수 있는 프룻티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "322g",
+            "단백질": "40g",
+            "포화지방": "1g",
+            "나트륨": "7mg",
+            "카페인": "170mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "레몬 자스민티",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240429/j6BWsSTyMkewF9gN_20240429.png",
+        "description": "상큼한 레몬 베이스와 로즈마리가 만드는 새로운 하모니의 자스민 과일 티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "112g",
+            "단백질": "27g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "21mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "레몬 요구르트",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240429/DV43P0nxuhldAXUp_20240429.png",
+        "description": "상큼한 레몬 베이스에 새콤달콤한 요구르트의 조합",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "212g",
+            "단백질": "44g",
+            "포화지방": "1g",
+            "나트륨": "0mg",
+            "카페인": "33mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "청귤 스파클링 티",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/6avp1hONLm2kqu3n_20231115.png",
+        "description": "탄산이 톡톡 !  건강한 단맛의 자일로스를 사용해 칼로리를 낮춘 상큼새콤한 청귤과 자스민티를 블랜딩한 스파클링 티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "179g",
+            "단백질": "30g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "16mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "자몽 요구르트",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240429/TYiWhJHNz0w3BrXa_20240429.png",
+        "description": "달콤하고 쌉싸름한 자몽과 새콤한 요구르트의 조합",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "146g",
+            "단백질": "27g",
+            "포화지방": "1g",
+            "나트륨": "0mg",
+            "카페인": "37mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "패션 프룻 히비스커스",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/1xHFr7AYEX4esjtl_20231115.png",
+        "description": "새콤달콤한 패션 프룻&히비스커스의 조화가 돋보이는 카페인 Free 티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "98g",
+            "단백질": "25g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "4mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "자몽 자스민티",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/wmUc1eCfDrlnNquy_20231115.png",
+        "description": "달콤하고 쌉싸름한 자몽과 로즈마리가 만드는 새로운 하모니의 자스민 과일 티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "61g",
+            "단백질": "11g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "22mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "청포도 자스민티",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/fB2rbSOHGv6lN4Vx_20231115.png",
+        "description": "쌉싸름한 자스민티에 상큼한 청포도 넣어 청량하고 달콤한 자스민 과일 티",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "100g",
+            "단백질": "20g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "1mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "망고 주스",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/qB9jP6UMAY2fyzS4_20231115.png",
+        "description": "농축된 달콤한 망고의 입자가 느껴지는 달콤한 망고 주스",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "108g",
+            "단백질": "20g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "19mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "망고 요구르트",
+        "category": "프룻티&모어",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/lz3mIo0QRxDaZMr7_20231115.png",
+        "description": "농축된 달콤한 망고의 입자와 새콤한 요구르트의 조합, 망고 요구르트",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "177g",
+            "단백질": "31g",
+            "포화지방": "1g",
+            "나트륨": "0mg",
+            "카페인": "29mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "아메리카노 1L",
+        "category": "커피",
+        "image_url": "https://www.gong-cha.co.kr/upload/product/556a2f4277aef3f859309b96317df26b.png",
+        "description": "공차 아메리카노를 대용량으로 즐길 수 있는 메뉴입니다.",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "1000kcal",
+            "당류": "30g",
+            "단백질": "0g",
+            "포화지방": "1g",
+            "나트륨": "0mg",
+            "카페인": "0mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "카페 스무디 with 블랙티 (공차치노)",
+        "category": "커피",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240619/t6qHjdRfurkyGp3D_20240619.png",
+        "description": "부드러운 커피에 은은한 블랙티와 브라운슈가향이 어우러져 공차만의 스타일로 탄생한 메뉴",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "339g",
+            "단백질": "58g",
+            "포화지방": "1g",
+            "나트륨": "9mg",
+            "카페인": "129mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "얼그레이 아메리카노",
+        "category": "커피",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240429/MNcfsD3xdKzXV9Pv_20240429.png",
+        "description": "공차 시그니처 블렌딩 원두와 향긋한 얼그레이티의 조화가 좋은 스페셜 커피 메뉴",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "11g",
+            "단백질": "0g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "1mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "카페 모카",
+        "category": "커피",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20240429/3zc84oViAZRpWSyC_20240429.png",
+        "description": "진한 커피에 공차 초콜렛을 더하고 달콤짭조름한 밀크폼과 함께 즐기는 공차만의 커피 음료",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "264g",
+            "단백질": "9g",
+            "포화지방": "7g",
+            "나트륨": "12mg",
+            "카페인": "230mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "공차슈페너",
+        "category": "커피",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/I0PFrdfi3hbADJlK_20231115.png",
+        "description": "향긋한 얼그레이티를 넣은 공차만의 블렌딩 아메리카노에  달콤짭조름한 밀크폼을 얹은 스페셜 메뉴",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "97g",
+            "단백질": "1g",
+            "포화지방": "1g",
+            "나트륨": "4.6mg",
+            "카페인": "141mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "바닐라 카페라떼",
+        "category": "커피",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/c72h5MUY0uD1xTQZ_20231115.png",
+        "description": "진한 커피에 마다가스카르산 바닐라빈이 더해져  달콤하고 깊은 풍미를 느낄 수 있는 공차만의 커피 음료",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "249g",
+            "단백질": "23g",
+            "포화지방": "7g",
+            "나트륨": "7mg",
+            "카페인": "186mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "아메리카노",
+        "category": "커피",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/WGFlcDzxwIM6yaRu_20231115.png",
+        "description": "브라질, 콜롬비아 외 대표적인 원두 5가지를 블렌딩하여 찾은 최적의 맛",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "10g",
+            "단백질": "0g",
+            "포화지방": "0g",
+            "나트륨": "0mg",
+            "카페인": "0mg"
+        }
+    },
+    {
+        "brand": "Gong Cha",
+        "name": "카페라떼",
+        "category": "커피",
+        "image_url": "https://www.gong-cha.co.kr/uploads/product/20231115/kzOZMBvCSWdginFr_20231115.png",
+        "description": "진하고 부드러운 공차의 새로운 커피 (HOT / ICED)​",
+        "price": "Price not found.",
+        "nutrition": {
+            "칼로리": "473kcal",
+            "당류": "136g",
+            "단백질": "9g",
+            "포화지방": "6g",
+            "나트륨": "4.8mg",
+            "카페인": "100mg"
+        }
+    }
+]
