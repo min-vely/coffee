@@ -16,9 +16,11 @@ def load_data():
     """Loads menu data from JSON files."""
     starbucks_path = os.path.join('data', 'starbucks_menu.json')
     ediya_path = os.path.join('data', 'ediya_menu.json')
+    gongcha_path = os.path.join('data', 'gongcha_menu.json')
     
     starbucks_data = []
     ediya_data = []
+    gongcha_data = []
 
     try:
         with open(starbucks_path, 'r', encoding='utf-8') as f:
@@ -31,12 +33,18 @@ def load_data():
             ediya_data = json.load(f)
     except FileNotFoundError:
         st.error(f"Error: {ediya_path} not found. Please run the ediya_crawler.py and ediya_deduplication.py first.")
+
+    try:
+        with open(gongcha_path, 'r', encoding='utf-8') as f:
+            gongcha_data = json.load(f)
+    except FileNotFoundError:
+        st.error(f"Error: {gongcha_path} not found. Please run the gongcha_crawler.py first.")
         
-    return starbucks_data, ediya_data
+    return starbucks_data, ediya_data, gongcha_data
 
 # --- RAG Pipeline Setup ---
 @st.cache_resource
-def setup_rag_pipeline(starbucks_data, ediya_data):
+def setup_rag_pipeline(starbucks_data, ediya_data, gongcha_data):
     """Sets up the RAG pipeline with combined menu data."""
     
     # Check if OpenAI API key is set
@@ -45,7 +53,7 @@ def setup_rag_pipeline(starbucks_data, ediya_data):
         st.stop() # Stop the app if API key is missing
 
     # Combine data and create documents
-    all_menu_items = starbucks_data + ediya_data
+    all_menu_items = starbucks_data + ediya_data + gongcha_data
     documents = []
     for item in all_menu_items:
         content = f"브랜드: {item.get('brand')}\n" \
@@ -149,17 +157,19 @@ def display_menu_grid(menu_data, brand_name):
                             st.session_state['selected_item'] = item
                             st.rerun()
 
-def kiosk_mode(starbucks_data, ediya_data):
+def kiosk_mode(starbucks_data, ediya_data, gongcha_data):
     """Renders the Kiosk UI."""
     if 'selected_item' in st.session_state:
         display_menu_item_details(st.session_state['selected_item'])
     else:
         st.header("키오스크 모드")
-        tab_starbucks, tab_ediya = st.tabs(["스타벅스 (Starbucks)", "이디야 (Ediya)"])
+        tab_starbucks, tab_ediya, tab_gongcha = st.tabs(["스타벅스 (Starbucks)", "이디야 (Ediya)", "공차 (Gong Cha)"])
         with tab_starbucks:
             display_menu_grid(starbucks_data, "스타벅스")
         with tab_ediya:
             display_menu_grid(ediya_data, "이디야")
+        with tab_gongcha:
+            display_menu_grid(gongcha_data, "공차")
 
 # --- Chatbot Mode ---
 def chatbot_mode(qa_chain):
@@ -205,16 +215,16 @@ def main():
     load_dotenv()
 
     # Load data
-    starbucks_data, ediya_data = load_data()
+    starbucks_data, ediya_data, gongcha_data = load_data()
 
     # Setup RAG pipeline (cached)
-    qa_chain = setup_rag_pipeline(starbucks_data, ediya_data)
+    qa_chain = setup_rag_pipeline(starbucks_data, ediya_data, gongcha_data)
 
     # Sidebar for mode selection
     mode = st.sidebar.radio("모드 선택", ("키오스크", "챗봇"))
 
     if mode == "키오스크":
-        kiosk_mode(starbucks_data, ediya_data)
+        kiosk_mode(starbucks_data, ediya_data, gongcha_data)
     elif mode == "챗봇":
         chatbot_mode(qa_chain)
 
