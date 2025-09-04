@@ -2,7 +2,7 @@
     {
         "brand": "Starbucks",
         "name": "나이트로 바닐라 크림",
-        "product_id": "9200000002487",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000002487]_20250626171201110.jpg",
         "description": "부드러운 목넘김의 나이트로 커피와 바닐라 크림의 매력을 한번에 느껴보세요!",
         "price": "Price not found.",
@@ -18,7 +18,7 @@
     {
         "brand": "Starbucks",
         "name": "나이트로 콜드 브루",
-        "product_id": "9200000000479",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000000479]_20250626095418324.jpg",
         "description": "(나이트로 콜드 브루 매장 한정)나이트로 커피 정통의 캐스케이딩과 부드러운 콜드 크레마!부드러운 목 넘김과 완벽한 밸런스에 커피 본연의 단맛을 경험할 수 있습니다.",
         "price": "Price not found.",
@@ -34,7 +34,7 @@
     {
         "brand": "Starbucks",
         "name": "돌체 콜드 브루",
-        "product_id": "9200000002081",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000002081]_20250626100020135.jpg",
         "description": "무더운 여름철,동남아 휴가지에서 즐기는 커피를 떠오르게 하는스타벅스 음료의 베스트 x 베스트 조합인돌체 콜드 브루를 만나보세요!",
         "price": "Price not found.",
@@ -50,7 +50,7 @@
     {
         "brand": "Starbucks",
         "name": "리저브 나이트로",
-        "product_id": "9200000002407",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9200000002407]_20210225095106743.jpg",
         "description": "나이트로 커피 정통의 캐스케이딩과 부드러운 콜드 크레마!부드러운 목 넘김과 완벽한 밸런스에 커피 본연의 단맛을 경험할 수 있습니다.",
         "price": "Price not found.",
@@ -66,7 +66,7 @@
     {
         "brand": "Starbucks",
         "name": "리저브 콜드 브루",
-        "product_id": "9200000002093",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/03/[9200000002093]_20240318144604476.jpg",
         "description": "리저브 커피 마스터의 정성으로 차갑게 추출한 깊고 부드러운 풍미의 커피",
         "price": "Price not found.",
@@ -82,7 +82,7 @@
     {
         "brand": "Starbucks",
         "name": "막걸리향 크림 콜드 브루",
-        "product_id": "9200000005282",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/05/[9200000005282]_20240509131200017.jpg",
         "description": "산에서 만날 수 있는 특별한 경험을 모티브로해 달콤, 향긋한 비알코올 막걸리 향 크림과 고소한 쌀 토핑으로 즐길 수 있는 콜드 브루",
         "price": "Price not found.",
@@ -98,7 +98,7 @@
     {
         "brand": "Starbucks",
         "name": "민트 콜드 브루",
-        "product_id": "9200000004312",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2022/10/[9200000004312]_20221005145029134.jpg",
         "description": "상쾌한 민트향 시럽과 잘게 갈린 얼음이어우러져 시원함이 강렬하게 느껴지는 리저브만의콜드 브루 음료",
         "price": "Price not found.",
@@ -114,7 +114,7 @@
     {
         "brand": "Starbucks",
         "name": "바닐라 크림 콜드 브루",
-        "product_id": "9200000000487",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000000487]_20250626095703208.jpg",
         "description": "콜드 브루에 더해진 바닐라 크림으로 깔끔하면서 달콤한 콜드 브루를 새롭게 즐길 수 있는 음료입니다.",
         "price": "Price not found.",
@@ -130,7 +130,7 @@
     {
         "brand": "Starbucks",
         "name": "베르가못 콜드 브루",
-        "product_id": "9200000005991",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000005991]_20250626094639919.jpg",
         "description": "은은하게 퍼지는 플로럴 향과 베르가못의 화사하고 우아한 시트러스 맛이 느껴지는 부드러운 콜드 브루",
         "price": "Price not found.",
@@ -146,7 +146,7 @@
     {
         "brand": "Starbucks",
         "name": "블랙&화이트 콜드 브루",
-        "product_id": "9200000006301",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/07/[9200000006301]_20250703090404091.jpg",
         "description": "리저브 콜드 브루와 하우스 메이드 바닐라 빈 크림이 어우러진 아인슈페너 음료",
         "price": "Price not found.",
@@ -162,7 +162,7 @@
     {
         "brand": "Starbucks",
         "name": "스모크드 콜드 패션드",
-        "product_id": "9200000006056",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/04/[9200000006056]_20250424105540077.jpg",
         "description": "스모키한 위스키의 풍미와 초콜릿 풍미의 리저브 커피가 어우러진 칵테일처럼 즐기는 콜드 브루 음료",
         "price": "Price not found.",
@@ -178,7 +178,7 @@
     {
         "brand": "Starbucks",
         "name": "시그니처 더 블랙 콜드 브루",
-        "product_id": "9200000003661",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000003661]_20250626093642415.jpg",
         "description": "콜드 브루 전용 원두를 차가운 물로 매장에서 직접추출하여 부드럽고 진한 풍미의 콜드브루를언제 어디서나 편하게 즐겨보세요 (전용 보틀 /500ml)",
         "price": "Price not found.",
@@ -194,7 +194,7 @@
     {
         "brand": "Starbucks",
         "name": "여수 윤슬 헤이즐넛 콜드브루",
-        "product_id": "9200000004750",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000004750]_20250626093847094.jpg",
         "description": "햇빛이나 달빛에 비치어 반짝이는 잔물결이라는\"윤슬\"을 형상화한 헤이즐넛 콜드브루",
         "price": "Price not found.",
@@ -210,7 +210,7 @@
     {
         "brand": "Starbucks",
         "name": "오트 콜드 브루",
-        "product_id": "9200000003285",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000003285]_20250626095600441.jpg",
         "description": "콜드 브루의 풍미와 깔끔한 오트음료(식물성 대체유)가 어우러진 달콤 고소한 라떼.식물성 대체유를 사용해 모든 고객이 부담없이 즐길 수 있는 콜드 브루 음료",
         "price": "Price not found.",
@@ -226,7 +226,7 @@
     {
         "brand": "Starbucks",
         "name": "제주 비자림 리저브 콜드 브루",
-        "product_id": "9200000005616",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/10/[9200000005616]_20241014134021881.jpg",
         "description": "[더제주송당파크R 한정판매]제주 말차, 리저브 콜드 브루로제주 천년의 숲 비자림을 표현한 음료",
         "price": "Price not found.",
@@ -242,7 +242,7 @@
     {
         "brand": "Starbucks",
         "name": "콜드 브루",
-        "product_id": "9200000000038",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000000038]_20250626095744182.jpg",
         "description": "스타벅스 바리스타의 정성으로 만들어진 콜드브루! 콜드브루 전용 원료로 정교하게 완성된 부드러운 산미와 깊은 바디감의 초콜릿 풍미 커피",
         "price": "Price not found.",
@@ -258,7 +258,7 @@
     {
         "brand": "Starbucks",
         "name": "콜드 브루",
-        "product_id": "9200000004770",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000004770]_20250626175029778.jpg",
         "description": "스타벅스 바리스타의 정성으로 탄생한 콜드 브루!콜드 브루 전용 원두를 차가운 물로 추출하여 한정된 양만 제공됩니다.실크같이 부드럽고 그윽한 초콜릿 풍미의 콜드 브루를 만나보세요!",
         "price": "Price not found.",
@@ -274,7 +274,7 @@
     {
         "brand": "Starbucks",
         "name": "콜드 브루 몰트",
-        "product_id": "9200000001636",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9200000001636]_20210225093600536.jpg",
         "description": "[리저브 전용음료] 리저브 콜드 브루, 바닐라 아이스크림, 몰트가 블렌딩된 리저브만의 쉐이크",
         "price": "Price not found.",
@@ -290,7 +290,7 @@
     {
         "brand": "Starbucks",
         "name": "콜드 브루 플로트",
-        "product_id": "9200000001635",
+        "category": "콜드 브루 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9200000001635]_20210225092236748.jpg",
         "description": "[리저브 전용음료] 리저브 콜드 브루 위에 녹아 내리는 한 스쿱의 바닐라 아이스크림",
         "price": "Price not found.",
@@ -306,7 +306,7 @@
     {
         "brand": "Starbucks",
         "name": "HP 코스타리카 TL 아이스 블랙&화이트",
-        "product_id": "9200000006053",
+        "category": "브루드 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/05/[9200000006053]_20250514142734796.jpg",
         "description": "리저브 드립 커피를 하우스 메이드 바닐라 크림과 함께 취향에 따라 즐길 수 있는 음료",
         "price": "Price not found.",
@@ -322,7 +322,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 커피",
-        "product_id": "106509",
+        "category": "브루드 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[106509]_20250626092521116.jpg",
         "description": "시즌에 어울리는 원두 종류를 선정하여 드립 방식으로 추출한 후 얼음과 함께 제공하는 커피로, 원두 커피의 풍부하고 깔끔한 맛을 느끼실 수 있습니다.",
         "price": "Price not found.",
@@ -338,7 +338,7 @@
     {
         "brand": "Starbucks",
         "name": "오늘의 커피",
-        "product_id": "2",
+        "category": "브루드 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[2]_20210430111934117.jpg",
         "description": "시즌에 어울리는 원두 종류를 선정하여 신선하게 브루드(Brewed)되어 제공되는 드립커피로, 원두 커피의 풍부한 맛과 향을 따뜻하게 즐기실 수 있습니다.",
         "price": "Price not found.",
@@ -354,7 +354,7 @@
     {
         "brand": "Starbucks",
         "name": "인도 MM 스모크드 카페 미스토",
-        "product_id": "9200000006051",
+        "category": "브루드 커피",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/05/[9200000006051]_20250514142428767.jpg",
         "description": "훈연한 풍미를 강조한 인도 몬순 말라바 커피를 부드러운 카페 미스토로 즐기는 음료",
         "price": "Price not found.",
@@ -370,7 +370,7 @@
     {
         "brand": "Starbucks",
         "name": "프렌치 바닐라 라떼",
-        "product_id": "9200000005292",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000005292]_20250821083047299.jpg",
         "description": "미국에서 출시되었던 프렌치 바닐라 라떼를 재해석한 여름에 시원하게 즐기기 좋은 블론드 라떼!깊은 프렌치 바닐라 풍미와 블론드 샷으로 진하고 달콤한 프렌치 감성을 느낄 수 있는 음료",
         "price": "Price not found.",
@@ -386,7 +386,7 @@
     {
         "brand": "Starbucks",
         "name": "헤이즐넛 오트 아이스 쉐이큰 에스프레소",
-        "product_id": "9200000005360",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/07/[9200000005360]_20250728145647700.jpg",
         "description": "미국 스타벅스의 대표 음료 아이스 쉐이큰 에스프레소!블론드 에스프레소 2샷, 헤이즐넛, 얼음을 쉐이킹한 후오트를 더해 시원하고 부드럽게 즐기는 여름 커피",
         "price": "Price not found.",
@@ -402,7 +402,7 @@
     {
         "brand": "Starbucks",
         "name": "에스프레소 콘 파나",
-        "product_id": "30",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[30]_20210415144252244.jpg",
         "description": "신선한 에스프레소 샷에 풍부한 휘핑크림을 얹은 커피 음료로서, 뜨거운 커피의 맛과 차갑고 달콤한 생크림의 맛을 같이 즐길 수 있는 커피 음료",
         "price": "Price not found.",
@@ -418,7 +418,7 @@
     {
         "brand": "Starbucks",
         "name": "에스프레소 마키아또",
-        "product_id": "25",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[25]_20210415144211211.jpg",
         "description": "신선한 에스프레소 샷에 우유 거품을 살짝 얹은 커피 음료로써, 강렬한 에스프레소의 맛과 우유의 부드러움을 같이 즐길 수 있는 커피 음료",
         "price": "Price not found.",
@@ -434,7 +434,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 1호점 카페 아메리카노",
-        "product_id": "9200000005514",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[9200000005514]_20240919154516844.jpg",
         "description": "풍부하고 부드러운 바디감의 별다방 블렌드 원두로 내린 에스프레소와 뜨거운 물을 섞어 깔끔하게 즐길 수 있는 스타벅스 이대점만의 블랙 커피 음료",
         "price": "Price not found.",
@@ -450,7 +450,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 스타벅스 1호점 카페 아메리카노",
-        "product_id": "9200000005516",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[9200000005516]_20240919154833807.jpg",
         "description": "풍부하고 부드러운 바디감의 별다방 블렌드 원두로 내린 에스프레소와 얼음과 물을 섞어 시원하고 깔끔하게 즐길 수 있는 스타벅스 이대점만의 블랙 커피 음료",
         "price": "Price not found.",
@@ -466,7 +466,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 카페 아메리카노",
-        "product_id": "110563",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[110563]_20250626094353711.jpg",
         "description": "진한 에스프레소에 시원한 정수물과 얼음을 더하여 스타벅스의 깔끔하고 강렬한 에스프레소를 가장 부드럽고 시원하게 즐길 수 있는 커피",
         "price": "Price not found.",
@@ -482,7 +482,7 @@
     {
         "brand": "Starbucks",
         "name": "카페 아메리카노",
-        "product_id": "94",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[94]_20210430103337006.jpg",
         "description": "진한 에스프레소와 뜨거운 물을 섞어 스타벅스의 깔끔하고 강렬한 에스프레소를 가장 부드럽게 잘 느낄 수 있는 커피",
         "price": "Price not found.",
@@ -498,7 +498,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 카라멜 마키아또",
-        "product_id": "110582",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[110582]_20250626095111658.jpg",
         "description": "향긋한 바닐라 시럽과 시원한 우유에 얼음을 넣고 점을 찍듯이 에스프레소를 부은 후 벌집 모양으로 카라멜 드리즐을 올린 달콤한 커피 음료",
         "price": "Price not found.",
@@ -514,7 +514,7 @@
     {
         "brand": "Starbucks",
         "name": "카라멜 마키아또",
-        "product_id": "126197",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[126197]_20210415154609863.jpg",
         "description": "향긋한 바닐라 시럽과 따뜻한 스팀 밀크 위에 풍성한 우유 거품을 얹고 점을 찍듯이 에스프레소를 부은 후 벌집 모양으로 카라멜 드리즐을 올린 달콤한 커피 음료",
         "price": "Price not found.",
@@ -530,7 +530,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 카푸치노",
-        "product_id": "110601",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[110601]_20250626095213930.jpg",
         "description": "풍부하고 진한 에스프레소에 신선한 우유와 우유 거품이 얼음과 함께 들어간 시원하고 부드러운 커피 음료",
         "price": "Price not found.",
@@ -546,7 +546,7 @@
     {
         "brand": "Starbucks",
         "name": "카푸치노",
-        "product_id": "38",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[38]_20210415154821846.jpg",
         "description": "풍부하고 진한 에스프레소에 따뜻한 우유와 벨벳 같은 우유 거품이 1:1 비율로 어우러져 마무리된 커피 음료",
         "price": "Price not found.",
@@ -562,7 +562,7 @@
     {
         "brand": "Starbucks",
         "name": "라벤더 카페 브레베",
-        "product_id": "9200000004119",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2022/04/[9200000004119]_20220412083025862.png",
         "description": "진한 리저브 에스프레소 샷과 은은한 라벤더향이 고급스럽게 어우러진 부드럽고 세련된 풍미의 라벤더 카페 브레베",
         "price": "Price not found.",
@@ -578,7 +578,7 @@
     {
         "brand": "Starbucks",
         "name": "밀크카라멜 라떼",
-        "product_id": "9200000006235",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000006235]_20250604124942828.jpg",
         "description": "부드럽고 달콤한 밀크카라멜의 은은한 풍미와 풍부한 질감을 느낄 수 있는 특별한 우유가 만나 언제나 편안하게 즐길 수 있는 라떼입니다.",
         "price": "Price not found.",
@@ -594,7 +594,7 @@
     {
         "brand": "Starbucks",
         "name": "바닐라 빈 라떼",
-        "product_id": "9200000001939",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9200000001939]_20210225094313315.jpg",
         "description": "리저브만을 위한 바닐라 빈 시럽이 부드럽게 어우러진 카페 라떼",
         "price": "Price not found.",
@@ -610,7 +610,7 @@
     {
         "brand": "Starbucks",
         "name": "번트 카라멜 라떼",
-        "product_id": "9200000006054",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/05/[9200000006054]_20250514142846184.jpg",
         "description": "리저브 에스프레소 커피와 번트 카라멜의 깊고 달콤한 풍미가 어우러진 라떼 음료",
         "price": "Price not found.",
@@ -626,7 +626,7 @@
     {
         "brand": "Starbucks",
         "name": "사케라또 비안코 오버 아이스",
-        "product_id": "9200000002095",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/03/[9200000002095]_20240318144701881.jpg",
         "description": "얼음과 같이 쉐이킹하여 차가워진 진한 리저브 에스프레소와 하우스 메이드 크림이 어우러진 달콤한 음료",
         "price": "Price not found.",
@@ -642,7 +642,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 1호점 카페 라떼",
-        "product_id": "9200000005518",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[9200000005518]_20240919154933695.jpg",
         "description": "풍부하고 부드러운 바디감의 별다방 블렌드 원두로 내린 에스프레소와 신선한 우유를 스팀하여 커피 위에 우유 거품을 살짝 얹은 스타벅스 이대점만의 카페 라떼 음료",
         "price": "Price not found.",
@@ -658,7 +658,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 1호점 크림 라떼",
-        "product_id": "9200000005522",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[9200000005522]_20240919155344866.jpg",
         "description": "\"Coffee & Tea & Spice\"스타벅스 첫번째 로고에서 착안한 음료로 스파이시한 향의 달콤하고 부드러운 커피 차이 크림폼, 풍부한 바디감의 별다방 블렌드 원두를 사용한 깊고 부드러운 크림 라떼 음료",
         "price": "Price not found.",
@@ -674,7 +674,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 꿀 호떡 라떼",
-        "product_id": "9200000006164",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/05/[9200000006164]_20250513101130306.jpg",
         "description": "한국의 대표 길거리 음식의 친근하고 익숙한 호떡을형상화한 음료로 어린시절 추억이 느껴지는 커피 음료시나몬향과 고소한 견과류가 느껴지는 음료",
         "price": "Price not found.",
@@ -690,7 +690,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 돌체 라떼",
-        "product_id": "128692",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[128692]_20210426091933665.jpg",
         "description": "스타벅스의 다른 커피 음료보다 더욱 깊은 커피의 맛과 향에 깔끔한 무지방 우유와 부드러운 돌체 시럽이 들어간 음료로 달콤하고 진한 커피 라떼",
         "price": "Price not found.",
@@ -706,7 +706,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 라벤더 카페 브레베",
-        "product_id": "9200000004120",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2022/04/[9200000004120]_20220412082952150.png",
         "description": "진한 리저브 에스프레소 샷과 은은한 라벤더향이 고급스럽게 어우러진 부드럽고 세련된 풍미의 라벤더 카페 브레베",
         "price": "Price not found.",
@@ -722,7 +722,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 밀크카라멜 라떼",
-        "product_id": "9200000006238",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000006238]_20250613084659816.jpg",
         "description": "부드럽고 달콤한 밀크카라멜의 은은한 풍미와 풍부한 질감을 느낄 수 있는 특별한 우유가 만나 언제나 편안하게 즐길 수 있는 라떼입니다.",
         "price": "Price not found.",
@@ -738,7 +738,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 바닐라 빈 라떼",
-        "product_id": "9200000001941",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9200000001941]_20210225094346653.jpg",
         "description": "리저브만을 위한 바닐라 빈 시럽이 부드럽게 어우러진 카페 라떼",
         "price": "Price not found.",
@@ -754,7 +754,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 스타벅스 1호점 카페 라떼",
-        "product_id": "9200000005520",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[9200000005520]_20240919155241283.jpg",
         "description": "풍부하고 부드러운 바디감의 별다방 블렌드 원두로 내린 에스프레소와 신선한 우유와 얼음이 만나 고소함과 시원함을 즐길 수 있는 스타벅스 이대점만의 카페 라떼 음료",
         "price": "Price not found.",
@@ -770,7 +770,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 스타벅스 1호점 크림 라떼",
-        "product_id": "9200000005523",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[9200000005523]_20240919155443058.jpg",
         "description": "\"Coffee & Tea & Spice\"스타벅스 첫번째 로고에서 착안한 음료로 스파이시한 향의 달콤하고 부드러운 커피 차이 크림폼, 풍부한 바디감의 별다방 블렌드 원두를 사용한 깊고 부드러운 크림 라떼 음료",
         "price": "Price not found.",
@@ -786,7 +786,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 스타벅스 꿀 호떡 라떼",
-        "product_id": "9200000006165",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/05/[9200000006165]_20250513101211857.jpg",
         "description": "한국의 대표 길거리 음식의 친근하고 익숙한 호떡을형상화한 음료로 어린시절 추억이 느껴지는 커피 음료시나몬향과 고소한 견과류가 느껴지는 음료",
         "price": "Price not found.",
@@ -802,7 +802,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 스타벅스 돌체 라떼",
-        "product_id": "128695",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[128695]_20250626095651684.jpg",
         "description": "스타벅스의 다른 커피 음료보다 더욱 깊은 커피의 맛과 향에 깔끔한 무지방 우유와 부드러운 돌체 시럽이 들어간 음료로 달콤하고 진한 커피 라떼",
         "price": "Price not found.",
@@ -818,7 +818,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 인절미 크림 라떼",
-        "product_id": "9200000005285",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/05/[9200000005285]_20240509131125335.jpg",
         "description": "고소하고 쌉싸름한 맛의 콩고물과 쫀득한 식감의 인절미 젤리를 달콤한 크림이 얹어진 커피와 함께 즐길 수 있는 라떼",
         "price": "Price not found.",
@@ -834,7 +834,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 카페 라떼",
-        "product_id": "110569",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[110569]_20250626094801903.jpg",
         "description": "풍부하고 진한 농도의 에스프레소가 시원한 우유와 얼음을 만나 고소함과 시원함을 즐길 수 있는 대표적인 커피 라떼",
         "price": "Price not found.",
@@ -850,7 +850,7 @@
     {
         "brand": "Starbucks",
         "name": "인절미 크림 라떼",
-        "product_id": "9200000005284",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/05/[9200000005284]_20240509131037171.jpg",
         "description": "고소하고 쌉싸름한 맛의 콩고물과 쫀득한 식감의 인절미 젤리를 달콤한 크림이 얹어진 커피와 함께 즐길 수 있는 라떼",
         "price": "Price not found.",
@@ -866,7 +866,7 @@
     {
         "brand": "Starbucks",
         "name": "카페 라떼",
-        "product_id": "41",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[41]_20210415133833725.jpg",
         "description": "풍부하고 진한 에스프레소가 신선한 스팀 밀크를 만나 부드러워진 커피 위에 우유 거품을 살짝 얹은 대표적인 커피 라떼",
         "price": "Price not found.",
@@ -882,7 +882,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 카페 모카",
-        "product_id": "110566",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[110566]_20250626113005628.jpg",
         "description": "진한 초콜릿 모카 시럽과 풍부한 에스프레소를 신선한 우유 그리고 얼음과 섞어 휘핑크림으로 마무리한 음료로 진한 에스프레소와 초콜릿 맛이 어우러진 커피",
         "price": "Price not found.",
@@ -898,7 +898,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 화이트 초콜릿 모카",
-        "product_id": "110572",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[110572]_20250626113205748.jpg",
         "description": "달콤하고 부드러운 화이트 초콜릿 시럽과 에스프레소를 신선한 우유 그리고 얼음과 섞어 휘핑크림으로 마무리한 음료로 달콤함과 강렬한 에스프레소가 부드럽게 어우러진 커피",
         "price": "Price not found.",
@@ -914,7 +914,7 @@
     {
         "brand": "Starbucks",
         "name": "카페 모카",
-        "product_id": "46",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[46]_20210415134438165.jpg",
         "description": "진한 초콜릿 모카 시럽과 풍부한 에스프레소를 스팀 밀크와 섞어 휘핑크림으로 마무리한 음료로 진한 에스프레소와 초콜릿 맛이 어우러진 커피",
         "price": "Price not found.",
@@ -930,7 +930,7 @@
     {
         "brand": "Starbucks",
         "name": "클래식 민트 모카",
-        "product_id": "9200000004313",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2022/10/[9200000004313]_20221005145156959.jpg",
         "description": "스타벅스의 클래식인 페퍼민트 모카를 떠올리게 하는 리저브만의 에스프레소 음료오트음료(식물성 대체유)의 고소함과 다크 초콜릿의 쌉쌀함이 특징인 음료입니다",
         "price": "Price not found.",
@@ -946,7 +946,7 @@
     {
         "brand": "Starbucks",
         "name": "화이트 초콜릿 모카",
-        "product_id": "128192",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[128192]_20210415155639126.jpg",
         "description": "달콤하고 부드러운 화이트 초콜릿 시럽과 에스프레소를 스팀 밀크와 섞어 휘핑크림으로 마무리한 음료로 달콤함과 강렬한 에스프레소가 부드럽게 어우러진 커피",
         "price": "Price not found.",
@@ -962,7 +962,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 플랫 화이트",
-        "product_id": "9200000005181",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000005181]_20250626095819133.jpg",
         "description": "부드러운 리스트레토 샷과 완벽한 양의 우유를 더해, 카페 라떼보다 커피의 맛을 진하게 즐길 수 있는 에스프레소 음료입니다.",
         "price": "Price not found.",
@@ -978,7 +978,7 @@
     {
         "brand": "Starbucks",
         "name": "플랫 화이트",
-        "product_id": "9200000005178",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/03/[9200000005178]_20240326103727795.jpg",
         "description": "부드러운 리스트레토 샷과 완벽한 양의 스팀밀크를 더해, 카페 라떼보다 커피의 맛을 진하게 즐길 수 있는 에스프레소 음료입니다.",
         "price": "Price not found.",
@@ -994,7 +994,7 @@
     {
         "brand": "Starbucks",
         "name": "바닐라 스타벅스 더블 샷",
-        "product_id": "110612",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[110612]_20250626095701777.jpg",
         "description": "신선하게 제조된 더블 샷 믹스에 바닐라 시럽을 넣고 에스프레소 샷, 얼음이 어우러져 핸드 쉐이킹한 음료",
         "price": "Price not found.",
@@ -1010,7 +1010,7 @@
     {
         "brand": "Starbucks",
         "name": "사케라또 아포가토",
-        "product_id": "9200000003505",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/03/[9200000003505]_20210322093241535.jpg",
         "description": "민트 잎과 쉐이킹한 리저브 에스프레소를바닐라 아이스크림에 부어 프레쉬함과달콤함이 조화롭게 퍼지는 리저브 만의 디저트 음료",
         "price": "Price not found.",
@@ -1026,7 +1026,7 @@
     {
         "brand": "Starbucks",
         "name": "스파클링 시트러스 에스프레소",
-        "product_id": "9200000003506",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/03/[9200000003506]_20210322093317854.jpg",
         "description": "리저브 에스프레소에 상큼한 레몬과진저에일을 더해 청량감과 시트러스 풍미를가득 선사하는 커피 음료",
         "price": "Price not found.",
@@ -1042,7 +1042,7 @@
     {
         "brand": "Starbucks",
         "name": "에스프레소",
-        "product_id": "20",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[20]_20210415144112678.jpg",
         "description": "스타벅스 에스프레소는 향기로운 크레마 층과 바디 층, 하트 층으로 이루어져 있으며, 입안 가득히 커피와 달콤한 카라멜 향이 느껴지는 커피 음료",
         "price": "Price not found.",
@@ -1058,7 +1058,7 @@
     {
         "brand": "Starbucks",
         "name": "에스프레소 플라이트",
-        "product_id": "9900000001604",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[9900000001604]_20240909104819181.jpg",
         "description": "스타벅스 리저브 에스프레소를 새롭고 다양하게 즐길 수 있는 에스프레소 플라이트",
         "price": "Price not found.",
@@ -1074,7 +1074,7 @@
     {
         "brand": "Starbucks",
         "name": "에스프레소 플라이트 도산",
-        "product_id": "9900000001721",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/04/[9900000001721]_20250424124232037.jpg",
         "description": "스타벅스 리저브 에스프레소를 새롭고 다양하게 즐길 수 있는 에스프레소 플라이트",
         "price": "Price not found.",
@@ -1090,7 +1090,7 @@
     {
         "brand": "Starbucks",
         "name": "커피 스타벅스 더블 샷",
-        "product_id": "110611",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[110611]_20250626095539402.jpg",
         "description": "신선하게 제조된 더블 샷 믹스에 클래식 시럽을 넣고 에스프레소 샷, 얼음이 어우러져 핸드 쉐이킹한 음료",
         "price": "Price not found.",
@@ -1106,7 +1106,7 @@
     {
         "brand": "Starbucks",
         "name": "클래식 아포가토",
-        "product_id": "9200000001631",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9200000001631]_20210225090916684.jpg",
         "description": "[리저브R 매장 전용음료] 리저브 에스프레소 투 샷이 바닐라 아이스크림과 진하게 어우러진 정통 아포가토",
         "price": "Price not found.",
@@ -1122,7 +1122,7 @@
     {
         "brand": "Starbucks",
         "name": "헤이즐넛 스타벅스 더블 샷",
-        "product_id": "110614",
+        "category": "에스프레소",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[110614]_20250626174624137.jpg",
         "description": "신선하게 제조된 더블 샷 믹스에 헤이즐넛 시럽을 넣고 에스프레소 샷, 얼음이 어우러져 핸드 쉐이킹한 음료",
         "price": "Price not found.",
@@ -1138,7 +1138,7 @@
     {
         "brand": "Starbucks",
         "name": "카페 브륄레 프라푸치노",
-        "product_id": "9200000006286",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000006286]_20250820132228039.jpg",
         "description": "진한 리스트레토 에스프레소 2샷과카라멜, 브라운슈가의 달콤함이 어우러져진한 커피가 곁들어진 크렘브륄레 풍미를 즐길 수 있는 프라푸치노",
         "price": "Price not found.",
@@ -1154,7 +1154,7 @@
     {
         "brand": "Starbucks",
         "name": "더 멜론 오브 멜론 프라푸치노",
-        "product_id": "9200000005295",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000005295]_20250820133445879.jpg",
         "description": "다시 돌아온 글로벌 인기 음료!부드럽고 향긋한 멜론 베이스와 멜론 휘핑, 과육 가득한칸탈로프 멜론 청크로 한 통의 멜론을 먹는 듯한 프라푸치노",
         "price": "Price not found.",
@@ -1170,7 +1170,7 @@
     {
         "brand": "Starbucks",
         "name": "바나나 아몬드 오트 프라푸치노",
-        "product_id": "9200000006220",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/05/[9200000006220]_20250523150821265.jpg",
         "description": "로스티드 아몬드, 오트와진짜 바나나 한 개를 통째로 넣어여행 전 달콤하고 든든하게 즐기는 공항 전용 프라푸치노",
         "price": "Price not found.",
@@ -1186,7 +1186,7 @@
     {
         "brand": "Starbucks",
         "name": "자몽 망고 코코 프라푸치노",
-        "product_id": "9200000005363",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000005363]_20250820132117679.jpg",
         "description": "자몽 망고 코코넛의 완벽한 조합!여름철 휴양지가 떠오르는 시원 달콤한 프라푸치노고객들에게 많은 사랑을 받았던 자망코가 다시 돌아왔습니다",
         "price": "Price not found.",
@@ -1202,7 +1202,7 @@
     {
         "brand": "Starbucks",
         "name": "초코 바나나 아몬드 오트 프라푸치노",
-        "product_id": "9200000006221",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/05/[9200000006221]_20250523150926640.jpg",
         "description": "다크초콜릿, 로스티드 아몬드, 오트와진짜 바나나 한개를 통째로 넣어여행 전 달콤하고 든든하게 즐기는 공항 전용 프라푸치노",
         "price": "Price not found.",
@@ -1218,7 +1218,7 @@
     {
         "brand": "Starbucks",
         "name": "더블 에스프레소 칩 프라푸치노",
-        "product_id": "9200000002760",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000002760]_20250626095415811.jpg",
         "description": "리스트레토 에스프레소 2샷과 에스프레소 칩, 하프앤하프가 진하게 어우러진 커피의 기본에 충실한 프라푸치노",
         "price": "Price not found.",
@@ -1234,7 +1234,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 꿀 호떡 크림 프라푸치노",
-        "product_id": "9200000006303",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000006303]_20250619133012310.jpg",
         "description": "한국의 대표 길거리 음식의 친근하고 익숙한 호떡을 형상화한 음료로 어린시절 추억을 느끼며, 시나몬향과 고소한 견과류를 더욱 시원하게 즐길 수 있는 프라푸치노 음료",
         "price": "Price not found.",
@@ -1250,7 +1250,7 @@
     {
         "brand": "Starbucks",
         "name": "에스프레소 프라푸치노",
-        "product_id": "168007",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[168007]_20250626095952087.jpg",
         "description": "풍부하고 진한 에스프레소 샷의 강렬함과달콤함이 어우러져 깊은 커피의 풍미를느낄 수 있는 프라푸치노",
         "price": "Price not found.",
@@ -1266,7 +1266,7 @@
     {
         "brand": "Starbucks",
         "name": "자바 칩 프라푸치노",
-        "product_id": "168016",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[168016]_20250626113600873.jpg",
         "description": "커피, 모카 소스, 진한 초콜릿 칩이 입안 가득 느껴지는 스타벅스에서만 맛볼 수 있는 프라푸치노",
         "price": "Price not found.",
@@ -1282,7 +1282,7 @@
     {
         "brand": "Starbucks",
         "name": "칩 앤 칩 모카 프라푸치노",
-        "product_id": "9200000006259",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/07/[9200000006259]_20250718100550391.jpg",
         "description": "스타벅스 시그니처 초콜릿 칩과 에스프레소 칩을 더해 초콜릿과 커피 풍미를 가득 즐길 수 있는 프라푸치노",
         "price": "Price not found.",
@@ -1298,7 +1298,7 @@
     {
         "brand": "Starbucks",
         "name": "카라멜 프라푸치노",
-        "product_id": "168010",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[168010]_20250626113443023.jpg",
         "description": "카라멜과 커피가 어우러진 프라푸치노",
         "price": "Price not found.",
@@ -1314,7 +1314,7 @@
     {
         "brand": "Starbucks",
         "name": "딸기 글레이즈드 크림 프라푸치노",
-        "product_id": "9200000005369",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/06/[9200000005369]_20240614143554454.jpg",
         "description": "상큼&달콤한 딸기와 부드러운 글레이즈드 소스에 바삭한 딸기 토핑을 얹은 프라푸치노.숙련된 바리스타의 솜씨로 그려낸 특별한 예술 작품을 감상해보세요.",
         "price": "Price not found.",
@@ -1330,7 +1330,7 @@
     {
         "brand": "Starbucks",
         "name": "베르가못 딸기 크림 프라푸치노",
-        "product_id": "9200000006304",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/07/[9200000006304]_20250708105445804.jpg",
         "description": "여름 수국의 사랑스러운 색감을 형상화한 음료로 은은하게 퍼지는 얼그레이의 플로럴향과 딸기의 상큼한 풍미가 느껴지는 음료",
         "price": "Price not found.",
@@ -1346,7 +1346,7 @@
     {
         "brand": "Starbucks",
         "name": "베르가못 제주 말차 크림 프라푸치노",
-        "product_id": "9200000006305",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000006305]_20250619141412982.jpg",
         "description": "자연과 어우러진 수국의 색감을 형상화한 음료로 제주산 말차와 함께 은은하게 퍼지는 얼그레이의 플로럴향으로 부드러운 맛을 즐길 수 있는 음료 (제주산 말차)",
         "price": "Price not found.",
@@ -1362,7 +1362,7 @@
     {
         "brand": "Starbucks",
         "name": "인절미 제주 말차 크림 프라푸치노",
-        "product_id": "9200000005782",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000005782]_20250626114430130.jpg",
         "description": "제주의 특산물인 말차와 한국의 전통적인 소재인 인절미 가루 (콩가루)를 활용한 음료로 고소한 풍미를 가득 느낄 수 있는 시원한 프라푸치노 음료 (제주산:말차)",
         "price": "Price not found.",
@@ -1378,7 +1378,7 @@
     {
         "brand": "Starbucks",
         "name": "제주 까망 크림 프라푸치노",
-        "product_id": "9200000002088",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000002088]_20250626114629418.jpg",
         "description": "[제주 Only]쫄깃한 흑임자 떡과 블랙 소보로 토핑으로 컵빙수처럼 먹는 음료.고소한 흑임자와 쫄깃한 흑임자 떡, 달콤한 블랙 소보로 토핑으로 제주의 돌 하르방 길을 느낄 수 있는 음료",
         "price": "Price not found.",
@@ -1394,7 +1394,7 @@
     {
         "brand": "Starbucks",
         "name": "제주 말차 크림 프라푸치노",
-        "product_id": "9200000002502",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000002502]_20250626100915378.jpg",
         "description": "깊고 진한 말차 본연의 맛과 향을시원하고 부드럽게 즐길 수 있는 프라푸치노",
         "price": "Price not found.",
@@ -1410,7 +1410,7 @@
     {
         "brand": "Starbucks",
         "name": "제주 쑥떡 크림 프라푸치노",
-        "product_id": "9200000002090",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000002090]_20250626114614395.jpg",
         "description": "[제주지역 한정음료] 쫄깃쫄깃한 흑임자 떡으로씹는 재미를 즐길 수 있는 음료로,고소한 흑임자와 쑥떡 토핑이 올라간 음료",
         "price": "Price not found.",
@@ -1426,7 +1426,7 @@
     {
         "brand": "Starbucks",
         "name": "초콜릿 크림 칩 프라푸치노",
-        "product_id": "168066",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[168066]_20250626113822018.jpg",
         "description": "모카 소스와 진한 초콜릿 칩, 초콜릿 드리즐이 올라간 달콤한 크림 프라푸치노",
         "price": "Price not found.",
@@ -1442,7 +1442,7 @@
     {
         "brand": "Starbucks",
         "name": "화이트 타이거 프라푸치노",
-        "product_id": "9200000002403",
+        "category": "프라푸치노",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000002403]_20250626100106311.jpg",
         "description": "밀크 쉐이크 같은 부드럽고 달콤한 바닐라 크림 프라푸치노에 깊은 풍미의 단맛을 가진 흑당시럽이 어우러져 용인에버랜드 백호의 줄무늬를 형상화한 부드럽고 달콤한 프라푸치노* 용인에버랜드점에서만 판매하는 음료입니다",
         "price": "Price not found.",
@@ -1458,7 +1458,7 @@
     {
         "brand": "Starbucks",
         "name": "피치 망고 선셋 블렌디드",
-        "product_id": "9200000006320",
+        "category": "블렌디드",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/07/[9200000006320]_20250728150220544.jpg",
         "description": "여름 제철 과일 복숭아와 망고의 시원한 만남!과즙 가득한 화이트 피치와 핑크빛 망고 용과로휴양지 해변가의 노을빛을 담아낸 블렌디드",
         "price": "Price not found.",
@@ -1474,7 +1474,7 @@
     {
         "brand": "Starbucks",
         "name": "북한산 레몬 얼 그레이 블렌디드",
-        "product_id": "9200000004716",
+        "category": "블렌디드",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/03/[9200000004716]_20250312095917822.jpg",
         "description": "꼬냑 향을 가미한 상큼한 레모네이드와 은은한 얼 그레이 티가 어우러진 블렌디드 음료",
         "price": "Price not found.",
@@ -1490,7 +1490,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 클래식 밀크티 블렌디드",
-        "product_id": "9200000004945",
+        "category": "블렌디드",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000004945]_20250827131549415.jpg",
         "description": "블랙티의 풍미와 향이 더욱 풍요롭게느껴질 수 있는 밀크티 블렌디드",
         "price": "Price not found.",
@@ -1506,7 +1506,7 @@
     {
         "brand": "Starbucks",
         "name": "여수 바다 유자 블렌디드",
-        "product_id": "9200000004870",
+        "category": "블렌디드",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/09/[9200000004870]_20230905110300360.jpg",
         "description": "맑고 깨끗한 여수 경도의 낮 바다 풍경을 형상화한 음료로상큼하게 즐길 수 있는 유자 블렌디드 음료 (유자:국내산)",
         "price": "Price not found.",
@@ -1522,7 +1522,7 @@
     {
         "brand": "Starbucks",
         "name": "제주 탄제린 블렌디드",
-        "product_id": "9200000005377",
+        "category": "블렌디드",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000005377]_20250626101807842.jpg",
         "description": "새콤달콤 한라봉, 천혜향과 탱글말랑 한라봉 젤리로 제주의 싱그러움을 담아 낸 음료",
         "price": "Price not found.",
@@ -1538,7 +1538,7 @@
     {
         "brand": "Starbucks",
         "name": "딸기 딜라이트 요거트 블렌디드",
-        "product_id": "9200000003276",
+        "category": "블렌디드",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/07/[9200000003276]_20250721084027663.jpg",
         "description": "고농축 유산균의 부드러운 요거트와 딸기 본연의 상콤&달콤한 과육이 상큼하게 어우러진 리뉴얼 된 과일 요거트 블렌디드",
         "price": "Price not found.",
@@ -1554,7 +1554,7 @@
     {
         "brand": "Starbucks",
         "name": "망고 바나나 블렌디드",
-        "product_id": "169001",
+        "category": "블렌디드",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[169001]_20250626100121981.jpg",
         "description": "(Grande Only) 달콤한 망고 패션 프루트 주스에바나나 1개가 통째로 들어간 신선한 블렌디드",
         "price": "Price not found.",
@@ -1570,7 +1570,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 판다 쿠키 블렌디드",
-        "product_id": "9200000005379",
+        "category": "블렌디드",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000005379]_20250626093852304.jpg",
         "description": "[용인에버랜드점 한정 판매]초콜릿과 고소한 너티 풍미의 달콤한 조합!너티 쿠키의 바삭한 식감과 판다 초콜릿으로 귀여움까지 즐길 수 있는 음료",
         "price": "Price not found.",
@@ -1586,7 +1586,7 @@
     {
         "brand": "Starbucks",
         "name": "제주 말차 요거트 블렌디드",
-        "product_id": "9200000006225",
+        "category": "블렌디드",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/07/[9200000006225]_20250718100440834.jpg",
         "description": "유기농 제주산 말차와 고농축 유산균의 요거트가 만나 말차의 새로운 맛을 즐길 수 있는 요거트 블렌디드",
         "price": "Price not found.",
@@ -1602,7 +1602,7 @@
     {
         "brand": "Starbucks",
         "name": "피치 망고 블렌디드",
-        "product_id": "9200000004780",
+        "category": "블렌디드",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000004780]_20250626094123074.jpg",
         "description": "오직 강릉주문진점에서만 다시 만날 수 있는 특화 음료로,달콤한 피치,망고에 새콤한 패션 탱고 티를 더한 매력적인 음료*G Only",
         "price": "Price not found.",
@@ -1618,7 +1618,7 @@
     {
         "brand": "Starbucks",
         "name": "피치 요거트 블렌디드",
-        "product_id": "9200000006222",
+        "category": "블렌디드",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/07/[9200000006222]_20250718100327534.jpg",
         "description": "고농축 유산균의 요거트와 달콤한 복숭아 풍미가 어우러진 달콤 상큼한 과일 요거트 블렌디드",
         "price": "Price not found.",
@@ -1634,7 +1634,7 @@
     {
         "brand": "Starbucks",
         "name": "딸기 아사이 레모네이드 스타벅스 리프레셔",
-        "product_id": "9200000003763",
+        "category": "스타벅스 리프레셔",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000003763]_20250626093913823.jpg",
         "description": "딸기, 아사이베리 주스와 레모네이드가 달콤 상큼하게 조화된 맛에 가볍게 에너지 부스팅을 할 수 있는 리프레셔 음료",
         "price": "Price not found.",
@@ -1650,7 +1650,7 @@
     {
         "brand": "Starbucks",
         "name": "딸기 아사이 레모네이드 스타벅스 리프레셔",
-        "product_id": "9200000004753",
+        "category": "스타벅스 리프레셔",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000004753]_20250626175350251.jpg",
         "description": "딸기, 아사이베리 주스와 레모네이드가 달콤 상큼하게 조화된 맛에 가볍게 에너지 부스팅을 할 수 있는 리프레셔 음료.",
         "price": "Price not found.",
@@ -1666,7 +1666,7 @@
     {
         "brand": "Starbucks",
         "name": "체리&자두 에너지 피지오",
-        "product_id": "9200000005983",
+        "category": "스타벅스 피지오",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/07/[9200000005983]_20250724154622363.jpg",
         "description": "체리와 자두의 이색 조합으로 그란데 사이즈 99kcal와 타우린과 비타민C 등이 영양소가 함유되어 건강한 에너지를 시원하게 즐길 수 있는 카페인 프리 음료. (필요 시 무료로 블랙 티 커스텀을 통해 카페인도 추가할 수 있습니다)",
         "price": "Price not found.",
@@ -1682,7 +1682,7 @@
     {
         "brand": "Starbucks",
         "name": "피치 딸기 피지오",
-        "product_id": "9200000004567",
+        "category": "스타벅스 피지오",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/07/[9200000004567]_20250724154522054.jpg",
         "description": "피치와 딸기의 상큼한 과일과 청량한 탄산의 조화로 리프레시 할 수 있는 음료",
         "price": "Price not found.",
@@ -1698,7 +1698,7 @@
     {
         "brand": "Starbucks",
         "name": "골든 만다린 홉 피지오",
-        "product_id": "9200000006172",
+        "category": "스타벅스 피지오",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/05/[9200000006172]_20250513101034691.jpg",
         "description": "부드럽게 느껴지는 티폼과 시트러스한 감귤 풍미맥주 느낌의 청량하게 즐기는 상큼한 피지오 음료",
         "price": "Price not found.",
@@ -1714,7 +1714,7 @@
     {
         "brand": "Starbucks",
         "name": "라이트 핑크 자몽 피지오",
-        "product_id": "9200000005168",
+        "category": "스타벅스 피지오",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000005168]_20250626095609681.jpg",
         "description": "달콤 쌉싸름한 자몽에 탄산의 청량감을 가득 담은 피지오로,2018년 대비 칼로리를 60% 낮춰 돌아왔습니다.*G사이즈 기준 99kcal 이하*18년 대비 칼로리 60% DOWN",
         "price": "Price not found.",
@@ -1730,7 +1730,7 @@
     {
         "brand": "Starbucks",
         "name": "리버 피치 피지오",
-        "product_id": "9200000005283",
+        "category": "스타벅스 피지오",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/05/[9200000005283]_20240509131233446.jpg",
         "description": "길고 깊은 강의 모습과 달콤한 복숭아가 만나 강의 뷰를 즐기며 힐링할 수 있는 상큼한 피지오",
         "price": "Price not found.",
@@ -1746,7 +1746,7 @@
     {
         "brand": "Starbucks",
         "name": "여수 바다 자몽 피지오",
-        "product_id": "9200000004751",
+        "category": "스타벅스 피지오",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/09/[9200000004751]_20230907153225204.jpg",
         "description": "여수 돌산대교의 밤바다 풍경을 형상화한 음료로알록달록 색상 조명의 토핑과 함께여수의 풍경을 바라보며 즐길 수 있는 트로피컬 맛의 음료",
         "price": "Price not found.",
@@ -1762,7 +1762,7 @@
     {
         "brand": "Starbucks",
         "name": "의암호의 초록빛 자몽 피지오",
-        "product_id": "9200000005588",
+        "category": "스타벅스 피지오",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/10/[9200000005588]_20241017130009134.jpg",
         "description": "춘천의암호 낮의 싱그러운 초록빛을 형상화한 음료로 청자몽과 라임, 레몬젤리를 활용한 피지오 음료",
         "price": "Price not found.",
@@ -1778,7 +1778,7 @@
     {
         "brand": "Starbucks",
         "name": "제주팔삭 셔벗 피지오",
-        "product_id": "9200000004946",
+        "category": "스타벅스 피지오",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/01/[9200000004946]_20240103144959834.jpg",
         "description": "제주송당의 소원나무에 걸린 제주 동백꽃을 형상화한 음료제주의 자몽이라는 별명을 가진 제주 팔삭과 제주 한라봉으로매장에서 직접 만든 셔벗과 함께 상큼하게 즐길 수 있는 피지오 음료",
         "price": "Price not found.",
@@ -1794,7 +1794,7 @@
     {
         "brand": "Starbucks",
         "name": "제주팔삭 피지오",
-        "product_id": "9200000004947",
+        "category": "스타벅스 피지오",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000004947]_20250827131344272.jpg",
         "description": "제주의 자몽이라는 별명을 가진 팔삭과 제주 한라봉으로상큼하고 가볍게 즐길 수 있는 피지오 음료",
         "price": "Price not found.",
@@ -1810,7 +1810,7 @@
     {
         "brand": "Starbucks",
         "name": "쿨 라임 피지오",
-        "product_id": "107051",
+        "category": "스타벅스 피지오",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[107051]_20250626093749068.jpg",
         "description": "그린 빈 추출액이 들어간 라임 베이스에 건조된 라임 슬라이스를 넣고 스파클링한 시원하고 청량감 있는 음료입니다. (카페인이 함유된 탄산음료입니다)",
         "price": "Price not found.",
@@ -1826,7 +1826,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 얼 그레이 바닐라 티 라떼",
-        "product_id": "9200000004288",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000004288]_20250806103603510.jpg",
         "description": "2가지 티(블랙티, 얼 그레이 티)가 조화롭고 얼 그레이 폼과 바닐라의 풍미가 은은하게 퍼져 깔끔하고 부드러운 티 라떼 음료",
         "price": "Price not found.",
@@ -1842,7 +1842,7 @@
     {
         "brand": "Starbucks",
         "name": "얼 그레이 바닐라 티 라떼",
-        "product_id": "9200000004285",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000004285]_20250806103502267.jpg",
         "description": "2가지 티(블랙티, 얼 그레이 티)가 조화롭고 얼 그레이 폼과 바닐라의 풍미가 은은하게 퍼져 깔끔하고 부드러운 티 라떼 음료",
         "price": "Price not found.",
@@ -1858,7 +1858,7 @@
     {
         "brand": "Starbucks",
         "name": "민트 블렌드 티",
-        "product_id": "4004000000056",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[4004000000056]_20210415135215632.jpg",
         "description": "스피어민트, 페퍼민트, 레몬머틀이 블렌딩된 상쾌한 허브 티",
         "price": "Price not found.",
@@ -1874,7 +1874,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 민트 블렌드 티",
-        "product_id": "4004000000059",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[4004000000059]_20250626095245748.jpg",
         "description": "스피어민트, 페퍼민트, 레몬머틀이 블렌딩된 상쾌한 허브 티",
         "price": "Price not found.",
@@ -1890,7 +1890,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 얼 그레이 티",
-        "product_id": "4004000000039",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[4004000000039]_20250626095101523.jpg",
         "description": "꽃향 가득한 라벤더와 베르가못 향이 진한 홍차와 블렌딩된 향긋한 블랙 티",
         "price": "Price not found.",
@@ -1906,7 +1906,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 유스베리 티",
-        "product_id": "9200000000229",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000000229]_20250626094905408.jpg",
         "description": "제주산 찻잎으로 만든 황차에 사과, 망고, 파인애플, 히비스커스, 로즈힙 등이블렌딩되어 핑크빛 컬러가 감도는 수색과 베리류의 새콤함을 느낄 수 있는 옐로우 티",
         "price": "Price not found.",
@@ -1922,7 +1922,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 유자 민트 티",
-        "product_id": "9200000002959",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000002959]_20250626095858925.jpg",
         "description": "달콤한 국내산 고흥 유자와 알싸하고 은은한 진저와 상쾌한 민트 티가 조화로운 유자 민트 티",
         "price": "Price not found.",
@@ -1938,7 +1938,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 잉글리쉬 브렉퍼스트 티",
-        "product_id": "4004000000019",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[4004000000019]_20250626094722001.jpg",
         "description": "인도 아삼, 제주도 유기농 홍차가 블렌딩되어 진한 벌꿀향과 그윽한 몰트향이 특징인 블랙 티",
         "price": "Price not found.",
@@ -1954,7 +1954,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 제주 유기농 녹차로 만든 티",
-        "product_id": "400400000094",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[400400000094]_20250626095637338.jpg",
         "description": "유기농 녹차 티백만을 100%(물 제외) 사용한 티로맑은 수색과 고유의 풍미가 뛰어난 녹차",
         "price": "Price not found.",
@@ -1970,7 +1970,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 제주팔삭 & 자몽 허니 블랙 티",
-        "product_id": "9200000004944",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000004944]_20250827132453999.jpg",
         "description": "제주의 자몽이라는 별명을 가진 팔삭과 마누카꿀로자몽과 블랙티의 맛을 더욱 고급스럽게 즐길 수 있는 음료",
         "price": "Price not found.",
@@ -1986,7 +1986,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 캐모마일 블렌드 티",
-        "product_id": "4004000000079",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[4004000000079]_20250626095526701.jpg",
         "description": "캐모마일과 레몬 그라스, 레몬밤, 히비스커스 등 블렌딩되어은은하고 차분한 향이 기분을 좋게하는 허브 티",
         "price": "Price not found.",
@@ -2002,7 +2002,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 히비스커스 블렌드 티",
-        "product_id": "4004000000069",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[4004000000069]_20250626095350549.jpg",
         "description": "히비스커스, 사과, 파파야, 망고, 레몬그라스 등이 블렌딩된 상큼한 허브 티",
         "price": "Price not found.",
@@ -2018,7 +2018,7 @@
     {
         "brand": "Starbucks",
         "name": "얼 그레이 티",
-        "product_id": "4004000000036",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[4004000000036]_20210415143933425.jpg",
         "description": "꽃향 가득한 라벤더와 베르가못 향이 진한 홍차와 블렌딩된 향긋한 블랙 티",
         "price": "Price not found.",
@@ -2034,7 +2034,7 @@
     {
         "brand": "Starbucks",
         "name": "유스베리 티",
-        "product_id": "9200000000226",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[9200000000226]_20210415144434521.jpg",
         "description": "제주산 찻잎으로 만든 황차에 사과, 망고, 파인애플, 히비스커스, 로즈힙 등이블렌딩되어 핑크빛 컬러가 감도는 수색과 베리류의 새콤함을 느낄 수 있는 옐로우 티",
         "price": "Price not found.",
@@ -2050,7 +2050,7 @@
     {
         "brand": "Starbucks",
         "name": "유자 민트 티",
-        "product_id": "9200000002956",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2022/04/[9200000002956]_20220411155551915.jpg",
         "description": "달콤한 국내산 고흥 유자와 알싸하고 은은한 진저,우릴 수록 상쾌한 민트 티가 조화로운 유자 민트 티",
         "price": "Price not found.",
@@ -2066,7 +2066,7 @@
     {
         "brand": "Starbucks",
         "name": "잉글리쉬 브렉퍼스트 티",
-        "product_id": "4004000000016",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[4004000000016]_20210415153648533.jpg",
         "description": "인도 아삼, 제주도 유기농 홍차가 블렌딩되어 진한 벌꿀향과 그윽한 몰트향이 특징인 블랙 티",
         "price": "Price not found.",
@@ -2082,7 +2082,7 @@
     {
         "brand": "Starbucks",
         "name": "자몽 허니 블랙 티",
-        "product_id": "9200000000187",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[9200000000187]_20210419131229539.jpg",
         "description": "새콤한 자몽과 달콤한 꿀이 깊고 그윽한 풍미의 스타벅스 티바나 블랙 티의 조화",
         "price": "Price not found.",
@@ -2098,7 +2098,7 @@
     {
         "brand": "Starbucks",
         "name": "제주 유기농 녹차로 만든 티",
-        "product_id": "400400000091",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[400400000091]_20210415132229904.jpg",
         "description": "유기농 녹차 티백만을 100%(물 제외) 사용한 티로맑은 수색과 고유의 풍미가 뛰어난 녹차",
         "price": "Price not found.",
@@ -2114,7 +2114,7 @@
     {
         "brand": "Starbucks",
         "name": "제주팔삭 & 자몽 허니 블랙 티",
-        "product_id": "9200000004943",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000004943]_20250827132403893.jpg",
         "description": "제주의 자몽이라는 별명을 가진 팔삭과 마누카꿀로자몽과 블랙티의 맛을 더욱 고급스럽게 즐길 수 있는 음료",
         "price": "Price not found.",
@@ -2130,7 +2130,7 @@
     {
         "brand": "Starbucks",
         "name": "캐모마일 블렌드 티",
-        "product_id": "4004000000076",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[4004000000076]_20210415154920731.jpg",
         "description": "캐모마일과 레몬 그라스, 레몬밤, 히비스커스 등 블렌딩되어은은하고 차분한 향이 기분을 좋게하는 허브 티",
         "price": "Price not found.",
@@ -2146,7 +2146,7 @@
     {
         "brand": "Starbucks",
         "name": "히비스커스 블렌드 티",
-        "product_id": "4004000000066",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[4004000000066]_20210415155836395.jpg",
         "description": "히비스커스, 사과, 파파야, 망고, 레몬그라스 등이 블렌딩된 상큼한 허브 티",
         "price": "Price not found.",
@@ -2162,7 +2162,7 @@
     {
         "brand": "Starbucks",
         "name": "레드 파워 패션 티",
-        "product_id": "9200000004566",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000004566]_20250626094216209.jpg",
         "description": "딸기와 복숭아의 화사함에 패션 탱고티의 산뜻함을 더해한 모금 마시면 두근거리는 열정이 다시 떠오르는 리프레싱 티 음료",
         "price": "Price not found.",
@@ -2178,7 +2178,7 @@
     {
         "brand": "Starbucks",
         "name": "레몬 캐모마일 블렌드 티",
-        "product_id": "9200000004990",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/12/[9200000004990]_20231212110704134.jpg",
         "description": "상큼한 레몬에 캐모마일이은은하게 감도는 무카페인 티",
         "price": "Price not found.",
@@ -2194,7 +2194,7 @@
     {
         "brand": "Starbucks",
         "name": "복숭아 아이스 티",
-        "product_id": "9200000005310",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000005310]_20250626175453436.jpg",
         "description": "찻잎을 직접 우려 만든 상큼하고 청량한 아이스 티로,복숭아의 진한 맛과 홍차의 조화가 매력적인 음료*트렌타 사이즈는 Iced Only로 제공됩니다.",
         "price": "Price not found.",
@@ -2210,7 +2210,7 @@
     {
         "brand": "Starbucks",
         "name": "복숭아 아이스 티",
-        "product_id": "9200000005307",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000005307]_20250626101543177.jpg",
         "description": "찻잎을 직접 우려 만든 상큼하고 청량한 아이스 티로,복숭아의 진한 맛과 홍차의 조화가 매력적인 음료*Hot Tea로도 즐기실 수 있습니다.",
         "price": "Price not found.",
@@ -2226,7 +2226,7 @@
     {
         "brand": "Starbucks",
         "name": "복숭아 핫 티",
-        "product_id": "9200000005304",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/07/[9200000005304]_20240717132620949.jpg",
         "description": "찻잎을 직접 우려 만든 따뜻한 티로,복숭아와 진한 홍차의 풍미를 느낄 수 있는 음료",
         "price": "Price not found.",
@@ -2242,7 +2242,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 레몬 캐모마일 블렌드 티",
-        "product_id": "9200000004991",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/12/[9200000004991]_20231212110749533.jpg",
         "description": "상큼한 레몬에 캐모마일이은은하게 감도는 무카페인 티",
         "price": "Price not found.",
@@ -2258,7 +2258,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 자몽 허니 블랙 티",
-        "product_id": "9200000000190",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000000190]_20250626093924488.jpg",
         "description": "새콤한 자몽과 달콤한 꿀이 깊고 그윽한 풍미의 스타벅스 티바나 블랙 티의 조화",
         "price": "Price not found.",
@@ -2274,7 +2274,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 자몽 허니 블랙 티",
-        "product_id": "9200000004769",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000004769]_20250626175158256.jpg",
         "description": "새콤한 자몽과 달콤한 꿀이 깊고 그윽한 풍미의 스타벅스 티바나 블랙 티의 조화.",
         "price": "Price not found.",
@@ -2290,7 +2290,7 @@
     {
         "brand": "Starbucks",
         "name": "말차 티라미수 라떼",
-        "product_id": "9200000004954",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/11/[9200000004954]_20231127093740735.jpg",
         "description": "달콤 쌉싸름한 말차크림으로 부드럽게 즐길 수 있는디저트 타입의 말차 티라미수 음료",
         "price": "Price not found.",
@@ -2306,7 +2306,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 클래식 밀크 티",
-        "product_id": "9200000004933",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/01/[9200000004933]_20250102105625904.jpg",
         "description": "스타벅스가 선보이는 클래식한 밀크 티로,진하게 오래 우려낸 티바나 블랙 티의 깊은 풍미와우유의 조화로움을 담아낸 '맛'에 집중한 밀크 티",
         "price": "Price not found.",
@@ -2322,7 +2322,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 클래식 밀크 티 보틀",
-        "product_id": "9200000004942",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000004942]_20250626095409672.jpg",
         "description": "진하게 우려낸 블랙 티의 깊은 풍미와우유의 조화로움을 담아낸 클래식 밀크 티를전용 보틀과 함께, 언제 어디서나,편하게 즐겨보세요.(전용 보틀 / 500ml)",
         "price": "Price not found.",
@@ -2338,7 +2338,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 말차 티라미수 라떼",
-        "product_id": "9200000004955",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/11/[9200000004955]_20231127093837610.jpg",
         "description": "달콤 쌉싸름한 말차크림으로 부드럽게 즐길 수 있는디저트 타입의 말차 티라미수 음료",
         "price": "Price not found.",
@@ -2354,7 +2354,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 스타벅스 클래식 밀크 티",
-        "product_id": "9200000004936",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000004936]_20250626095136814.jpg",
         "description": "스타벅스가 선보이는 클래식한 밀크 티로,진하게 오래 우려낸 티바나 블랙 티의 깊은 풍미와우유의 조화로움을 담아낸 '맛'에 집중한 밀크 티",
         "price": "Price not found.",
@@ -2370,7 +2370,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 의암호의 보랏빛 라벤더 티 라떼",
-        "product_id": "9200000005590",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/10/[9200000005590]_20241017130203194.jpg",
         "description": "춘천의암호의 낭만적인 밤하늘의 보랏빛을 표현한 음료로 차분한 느낌의 라벤더를 활용하여 릴렉스 할 수 있는 티 라떼 음료",
         "price": "Price not found.",
@@ -2386,7 +2386,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 인절미 제주 말차 라떼",
-        "product_id": "9200000005781",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000005781]_20250626100335087.jpg",
         "description": "제주의 특산물인 말차와 한국의 전통적인 소재인 인절미 가루 (콩가루)를 활용한 음료로 고소한 티 라떼 음료 (제주산:말차)",
         "price": "Price not found.",
@@ -2402,7 +2402,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 제주 말차 라떼",
-        "product_id": "9200000002499",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000002499]_20250626100713501.jpg",
         "description": "차광재배한 어린 녹찻잎을 곱게 갈아깊고 진한 말차 본연의 맛과 향을부드럽게 즐길 수 있는 제주 말차 라떼",
         "price": "Price not found.",
@@ -2418,7 +2418,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 프렌치 바닐라 말차 라떼",
-        "product_id": "9200000006059",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/04/[9200000006059]_20250424110002176.jpg",
         "description": "번트 슈가의 풍미가 더해진 프렌치 바닐라 크림과 말차가 어우러진 음료",
         "price": "Price not found.",
@@ -2434,7 +2434,7 @@
     {
         "brand": "Starbucks",
         "name": "의암호의 보랏빛 라벤더 티 라떼",
-        "product_id": "9200000005589",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/10/[9200000005589]_20241017130107685.jpg",
         "description": "춘천의암호의 낭만적인 밤하늘의 보랏빛을 표현한 음료로 차분한 느낌의 라벤더를 활용하여 릴렉스 할 수 있는 티 라떼 음료",
         "price": "Price not found.",
@@ -2450,7 +2450,7 @@
     {
         "brand": "Starbucks",
         "name": "인절미 제주 말차 라떼",
-        "product_id": "9200000005780",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/01/[9200000005780]_20250110103213092.jpg",
         "description": "제주의 특산물인 말차와 한국의 전통적인 소재인 인절미 가루 (콩가루)를 활용한 음료로 고소한 티 라떼 음료 (제주산:말차)",
         "price": "Price not found.",
@@ -2466,7 +2466,7 @@
     {
         "brand": "Starbucks",
         "name": "제주 말차 라떼",
-        "product_id": "9200000002496",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[9200000002496]_20210419131039350.jpg",
         "description": "차광재배한 어린 녹찻잎을 곱게 갈아깊고 진한 말차 본연의 맛과 향을부드럽게 즐길 수 있는 제주 말차 라떼",
         "price": "Price not found.",
@@ -2482,7 +2482,7 @@
     {
         "brand": "Starbucks",
         "name": "프렌치 바닐라 말차 라떼",
-        "product_id": "9200000006058",
+        "category": "티(티바나)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/04/[9200000006058]_20250424105905420.jpg",
         "description": "번트 슈가의 풍미가 더해진 프렌치 바닐라 크림과 말차가 어우러진 음료",
         "price": "Price not found.",
@@ -2498,7 +2498,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 망고 라떼",
-        "product_id": "9200000006044",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000006044]_20250820133301747.jpg",
         "description": "달콤한 망고와 우유의 부드러움이 어우러져누구나 언제든 즐겨마시기 좋은 음료",
         "price": "Price not found.",
@@ -2514,7 +2514,7 @@
     {
         "brand": "Starbucks",
         "name": "딸기 콜드폼 초콜릿",
-        "product_id": "9200000004950",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/12/[9200000004950]_20231204090636952.jpg",
         "description": "딸기 풍미 가득한 스타벅스만의 딸기 콜드폼과은은한 초콜릿의 향으로 남녀노소 즐길 수 있는 음료",
         "price": "Price not found.",
@@ -2530,7 +2530,7 @@
     {
         "brand": "Starbucks",
         "name": "시그니처 핫 초콜릿",
-        "product_id": "72",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[72]_20210415140949967.jpg",
         "description": "깊고 진한 초콜릿과 부드러운 휘핑크림이 입안에서 사르르 녹는 초콜릿 음료",
         "price": "Price not found.",
@@ -2546,7 +2546,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 시그니처 초콜릿",
-        "product_id": "110621",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[110621]_20250626113323062.jpg",
         "description": "깊고 진한 초콜릿과 부드러운 휘핑크림이 입안에서 사르르 녹는 초콜릿 음료",
         "price": "Price not found.",
@@ -2562,7 +2562,7 @@
     {
         "brand": "Starbucks",
         "name": "아이스 티라미수 초콜릿",
-        "product_id": "9200000004953",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/11/[9200000004953]_20231127094019543.jpg",
         "description": "리저브 다크 초콜릿을 활용하여 초콜릿 풍미 가득한 디저트 타입의 티라미수 초콜릿",
         "price": "Price not found.",
@@ -2578,7 +2578,7 @@
     {
         "brand": "Starbucks",
         "name": "티라미수 초콜릿",
-        "product_id": "9200000004952",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/11/[9200000004952]_20231127093937845.jpg",
         "description": "리저브 다크 초콜릿을 활용하여 초콜릿 풍미 가득한 디저트 타입의 티라미수 초콜릿",
         "price": "Price not found.",
@@ -2594,7 +2594,7 @@
     {
         "brand": "Starbucks",
         "name": "플러피 판다 아이스 초콜릿",
-        "product_id": "9200000003658",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000003658]_20250626095124588.jpg",
         "description": "고소한 헤이즐넛과 진한 초콜릿의 만남,귀여운 판다까지 더해진 플러피 판다 아이스 초콜릿!* 용인에버랜드점에서만 판매하는 음료입니다",
         "price": "Price not found.",
@@ -2610,7 +2610,7 @@
     {
         "brand": "Starbucks",
         "name": "플러피 판다 핫 초콜릿",
-        "product_id": "9200000002594",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[9200000002594]_20210422080327783.jpg",
         "description": "고소한 헤이즐넛과 진한 핫초콜릿의 만남,귀여운 판다까지 더해진 플러피 판다 핫 초콜릿!* 용인에버랜드점에서만 판매하는 음료입니다",
         "price": "Price not found.",
@@ -2626,7 +2626,7 @@
     {
         "brand": "Starbucks",
         "name": "딸기 콜드폼 딸기 라떼",
-        "product_id": "9200000004951",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/11/[9200000004951]_20231102101647442.jpg",
         "description": "딸기 풍미 가득한 스타벅스만의 딸기 콜드폼과딸기 본연의 맛을 즐길 수 있는 음료",
         "price": "Price not found.",
@@ -2642,7 +2642,7 @@
     {
         "brand": "Starbucks",
         "name": "스타벅스 슬래머",
-        "product_id": "9200000003659",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[9200000003659]_20250626093348421.jpg",
         "description": "스트로베리와 아사이베리의 상큼, 달콤한 맛이 톡톡!시원하고 통쾌한 그랜드 슬램을 위한 에너지 부스팅 음료~!* SSG랜더스필드 매장에서만 판매하는 음료입니다.",
         "price": "Price not found.",
@@ -2658,7 +2658,7 @@
     {
         "brand": "Starbucks",
         "name": "스팀 우유",
-        "product_id": "17",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[17]_20210426095334934.jpg",
         "description": "부드럽고 담백한 따뜻한 우유.",
         "price": "Price not found.",
@@ -2674,7 +2674,7 @@
     {
         "brand": "Starbucks",
         "name": "우유",
-        "product_id": "18",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/06/[18]_20250626093838261.jpg",
         "description": "부드럽고 담백한 신선한 우유.",
         "price": "Price not found.",
@@ -2690,7 +2690,7 @@
     {
         "brand": "Starbucks",
         "name": "제주팔삭 셔벗",
-        "product_id": "9200000004957",
+        "category": "기타 제조 음료",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/08/[9200000004957]_20250827131450142.jpg",
         "description": "제주의 자몽이라는 별명을 가진 팔삭과한라봉으로 매장에서 직접 만든 상큼한 셔벗",
         "price": "Price not found.",
@@ -2706,7 +2706,7 @@
     {
         "brand": "Starbucks",
         "name": "ABC 클렌즈 190ML",
-        "product_id": "9300000004346",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/03/[9300000004346]_20240328133443928.jpg",
         "description": "과일 및 채소를 착즙하여 만든 주스!사과, 비트, 당근이 들어가 과일&채소를 달콤하게 즐길 수 있는 음료",
         "price": "Price not found.",
@@ -2722,7 +2722,7 @@
     {
         "brand": "Starbucks",
         "name": "스퀴즈드 오렌지 주스 100ML",
-        "product_id": "9300000005406",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[9300000005406]_20240905084511440.jpg",
         "description": "통오렌지를 착즙해 스페인 네이블 오렌지의 맛이그대로 느껴지는 프리미엄 주스",
         "price": "Price not found.",
@@ -2738,7 +2738,7 @@
     {
         "brand": "Starbucks",
         "name": "케일 클렌즈 190ML",
-        "product_id": "9300000004348",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/03/[9300000004348]_20240328133830383.jpg",
         "description": "과일 및 채소를 착즙하여 만든 주스!케일, 셀러리, 오이가 들어가 과일&채소를 건강하게 즐길 수 있는 음료",
         "price": "Price not found.",
@@ -2754,7 +2754,7 @@
     {
         "brand": "Starbucks",
         "name": "딸기주스 190ML",
-        "product_id": "5210008070",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2025/05/[5210008070]_20250527081742210.jpg",
         "description": "달콤한 국내산 딸기의 과육이 듬뿍 느껴지는 주스",
         "price": "Price not found.",
@@ -2770,7 +2770,7 @@
     {
         "brand": "Starbucks",
         "name": "망고주스 190ML",
-        "product_id": "5210008061",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/10/[5210008061]_20241031123748556.jpg",
         "description": "노랗게 익은 열대과일 망고가 입안 가득 느껴지는 주스",
         "price": "Price not found.",
@@ -2786,7 +2786,7 @@
     {
         "brand": "Starbucks",
         "name": "수박 주스 190ML",
-        "product_id": "9300000005405",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[9300000005405]_20240905084714529.jpg",
         "description": "동남아의 땡모반과 같이수박 특유의 달콤함과 청량함이입안 가득 느껴지는 주스",
         "price": "Price not found.",
@@ -2802,7 +2802,7 @@
     {
         "brand": "Starbucks",
         "name": "유기농 오렌지 100% 주스 190ML",
-        "product_id": "9300000003771",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[9300000003771]_20240923184306693.jpg",
         "description": "프리미엄 유기농 오렌지 주스로스페인산 오렌지 착즙!오렌지 그대로 100% 담긴 3개 분량물, 설탕, 첨가물 없는 오렌지 그대로의 맛",
         "price": "Price not found.",
@@ -2818,7 +2818,7 @@
     {
         "brand": "Starbucks",
         "name": "유기농 오렌지 100% 주스 591ML",
-        "product_id": "9300000003772",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/10/[9300000003772]_20211020095105008.jpg",
         "description": "프리미엄 유기농 오렌지 주스로스페인산 오렌지 착즙!오렌지 그대로 100% 담긴 8개 분량물, 설탕, 첨가물 없는 오렌지 그대로의 맛",
         "price": "Price not found.",
@@ -2834,7 +2834,7 @@
     {
         "brand": "Starbucks",
         "name": "케일&사과주스 190ML",
-        "product_id": "5210008072",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[5210008072]_20210426100712780.jpg",
         "description": "국내산 케일과 사과의 달콤함이 조화로운 녹색 주스",
         "price": "Price not found.",
@@ -2850,7 +2850,7 @@
     {
         "brand": "Starbucks",
         "name": "한라봉주스 190ML",
-        "product_id": "5210008055",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/10/[5210008055]_20241031123524702.jpg",
         "description": "새콤달콤한 황금빛 제주 한라봉을 그대로 담아낸 주스",
         "price": "Price not found.",
@@ -2866,7 +2866,7 @@
     {
         "brand": "Starbucks",
         "name": "햇사과 주스 190ML",
-        "product_id": "9300000002565",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[9300000002565]_20240923184651121.jpg",
         "description": "달콤새콤한 햇사과 1개 반을 껍질 그대로 착즙한 사과 주스",
         "price": "Price not found.",
@@ -2882,7 +2882,7 @@
     {
         "brand": "Starbucks",
         "name": "햇사과 주스 591ML",
-        "product_id": "9300000004407",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2022/10/[9300000004407]_20221027102828231.jpg",
         "description": "햇 사과 네개 반을 껍질 그대로  착즙한 신선한 맛의 사과 주스대용량으로 즐겨보세요.",
         "price": "Price not found.",
@@ -2898,7 +2898,7 @@
     {
         "brand": "Starbucks",
         "name": "딸기 가득 요거트 190ML",
-        "product_id": "9300000003775",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/10/[9300000003775]_20211020094208342.jpg",
         "description": "상큼 달콤 딸기 과육이 한가득 씹히는 마시는 요거트 음료",
         "price": "Price not found.",
@@ -2914,7 +2914,7 @@
     {
         "brand": "Starbucks",
         "name": "블루베리 요거트 190ML",
-        "product_id": "5210008063",
+        "category": "스타벅스 주스(병음료)",
         "image_url": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/09/[5210008063]_20240923185114500.jpg",
         "description": "블루베리 과육이 입안 가득 느껴지는 마시는 요거트",
         "price": "Price not found.",

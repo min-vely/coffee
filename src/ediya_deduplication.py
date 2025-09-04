@@ -22,8 +22,9 @@ def clean_ediya_data():
     # Group items by name
     items_by_name = defaultdict(list)
     for index, item in enumerate(ediya_data):
-        # Normalize name by removing existing (디카페인) tags for idempotency
-        normalized_name = item['name'].replace(' (디카페인)', '').strip()
+        # Normalize name by removing existing (디카페인) tags for idempotency and standardizing spaces
+        cleaned_name = re.sub(r'\s+', ' ', item['name']).strip() # Replace multiple spaces with single space
+        normalized_name = cleaned_name.replace(' (디카페인)', '').strip()
         items_by_name[normalized_name].append({'index': index, 'item': item})
 
     modified_count = 0
