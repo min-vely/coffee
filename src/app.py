@@ -89,7 +89,7 @@ def setup_rag_pipeline(starbucks_data, ediya_data, gongcha_data):
 
 
     # Initialize LLM and ConversationalRetrievalChain
-    llm = ChatOpenAI(temperature=0, model_name="gpt-4o-mini")
+    llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
     qa_chain = ConversationalRetrievalChain.from_llm(llm, vectorstore.as_retriever())
     
     return qa_chain
@@ -189,32 +189,75 @@ def kiosk_mode(starbucks_data, ediya_data, gongcha_data):
             display_menu_grid(gongcha_data, "공차")
 
 # --- Chatbot Mode ---
+@st.cache_data
+def load_recommended_questions():
+    """Loads recommended questions from a JSON file."""
+    questions_path = os.path.join('data', 'recommended_questions.json')
+    try:
+        with open(questions_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        st.warning(f"Recommended questions file not found at {questions_path}. No recommendations will be displayed.")
+        return []
+    except json.JSONDecodeError:
+        st.error(f"Error decoding JSON from {questions_path}. Please check the file format.")
+        return []
+
 def chatbot_mode(qa_chain):
     """Renders the Chatbot UI and handles interactions."""
     st.header("챗봇 모드")
 
+    # Add a clear chat button
+    if st.button("대화 초기화"): # You can place this button wherever you find it visually appropriate
+        st.session_state.messages = []
+        st.session_state.prompt_from_recommendation = None # Also clear any pending recommendation
+        st.rerun()
+
     # Initialize chat history
     if "messages" not in st.session_state:
         st.session_state.messages = []
+    
+    # Initialize prompt from recommendation
+    if "prompt_from_recommendation" not in st.session_state:
+        st.session_state.prompt_from_recommendation = None
 
     # Display chat messages from history on app rerun
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    # React to user input
-    if prompt := st.chat_input("메뉴에 대해 궁금한 점을 물어보세요!"):
-        # Display user message in chat message container
-        st.chat_message("user").markdown(prompt)
-        # Add user message to chat history
-        st.session_state.messages.append({"role": "user", "content": prompt})
+    # Display recommended questions if no chat history
+    if not st.session_state.messages:
+        recommended_questions = load_recommended_questions()
+        if recommended_questions:
+            st.subheader("추천 질문")
+            cols = st.columns(3) # Adjust number of columns as needed
+            for i, question in enumerate(recommended_questions):
+                with cols[i % 3]: # Distribute questions across columns
+                    if st.button(question, key=f"rec_q_{i}"):
+                        st.session_state.prompt_from_recommendation = question
+                        st.rerun()
 
+    # React to user input or recommended question click
+    prompt = st.chat_input("메뉴에 대해 궁금한 점을 물어보세요!")
+    if st.session_state.prompt_from_recommendation:
+        prompt = st.session_state.prompt_from_recommendation
+        st.session_state.prompt_from_recommendation = None # Clear after use
+
+    if prompt:
+        # Add user message to chat history immediately
+        st.session_state.messages.append({"role": "user", "content": prompt})
+        # Force a rerun to update the UI (hide recommendations) before AI processing
+        st.rerun()
+
+    # Process AI response only if the last message was from the user and no AI response has been given yet
+    if st.session_state.messages and st.session_state.messages[-1]["role"] == "user":
         with st.spinner("생각 중..."):
             # Get AI response
             # Prepare chat history for the chain
             chat_history = [(msg["content"], "") if msg["role"] == "user" else ("", msg["content"]) for msg in st.session_state.messages[:-1]]
             
-            response = qa_chain({"question": prompt, "chat_history": chat_history})
+            response = qa_chain({"question": st.session_state.messages[-1]["content"], "chat_history": chat_history})
             ai_response = response["answer"]
 
             # Display assistant response in chat message container
