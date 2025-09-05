@@ -3,7 +3,6 @@ streamlit
 
 # Data Handling
 pandas
-numpy==1.23.5  # Pin numpy version to fix chromadb incompatibility
 
 # LangChain Core and Components
 langchain
