@@ -152,7 +152,7 @@ def setup_rag_pipeline(starbucks_data, ediya_data, gongcha_data):
     document_content_description = "커피 및 음료 메뉴에 대한 정보"
 
     # Initialize LLM and SelfQueryRetriever
-    llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
+    llm = ChatOpenAI(temperature=0, model_name="gpt-4o")
     retriever = SelfQueryRetriever.from_llm(
         llm,
         vectorstore,
