@@ -10,7 +10,9 @@ langchain-openai
 langchain-chroma
 
 # Vector Store
-chromadb
+# Pin chromadb version and add pysqlite3-binary to fix deployment issues on Streamlit Cloud
+chromadb==0.4.24
+pysqlite3-binary
 
 # OpenAI SDK (peer dependency for langchain-openai)
 openai
