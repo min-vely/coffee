@@ -1,6 +1,10 @@
-__import__('pysqlite3')
 import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+import platform
+
+# Apply the ChromaDB fix only on Linux-based systems (like Streamlit Cloud)
+if platform.system() == "Linux":
+    __import__('pysqlite3')
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 import streamlit as st
 import json
