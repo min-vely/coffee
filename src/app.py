@@ -7,6 +7,8 @@ from langchain_chroma import Chroma
 from langchain_openai import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
 from langchain.schema import Document
+from langchain.retrievers.self_query.base import SelfQueryRetriever
+from langchain.chains.query_constructor.base import AttributeInfo
 # import openai # Not directly used for API key check anymore
 from dotenv import load_dotenv
 
@@ -47,52 +49,127 @@ def load_data():
 def setup_rag_pipeline(starbucks_data, ediya_data, gongcha_data):
     """Sets up the RAG pipeline with combined menu data."""
     
-    # Check if OpenAI API key is set
+    # Check if API keys are set
     if "OPENAI_API_KEY" not in os.environ:
-        st.error("OpenAI API Key not found. Please set the OPENENAI_API_KEY environment variable.")
-        st.stop() # Stop the app if API key is missing
+        st.error("OpenAI API Key not found. Please set the OPENAI_API_KEY environment variable.")
+        st.stop()
 
-    # Combine data and create documents
+    # Combine data and create documents with rich metadata
     all_menu_items = starbucks_data + ediya_data + gongcha_data
     documents = []
     for item in all_menu_items:
-        content = f"브랜드: {item.get('brand')}\n" \
-                  f"메뉴 이름: {item.get('name')}\n" \
-                  f"설명: {item.get('description')}\n"
+        content = f"""브랜드: {item.get('brand')}
+메뉴 이름: {item.get('name')}
+카테고리: {item.get('category')}
+설명: {item.get('description')}
+"""
         
         nutrition_str = ""
         if item.get('nutrition'):
             nutrition_str = "영양 정보:\n" + "\n".join([f"  {k}: {v}" for k, v in item['nutrition'].items()])
+
+        metadata = {
+            "brand": item.get('brand'), 
+            "name": item.get('name'),
+            "category": item.get('category'),
+        }
         
-        documents.append(Document(page_content=content + nutrition_str, metadata={"source": item.get('brand'), "name": item.get('name')}))
+        # Parse all nutrition facts for metadata
+        nutrition_info = item.get("nutrition")
+        if nutrition_info:
+            nutrition_keys = {
+                "caffeine_mg": "카페인",
+                "sugars_g": "당류",
+                "sodium_mg": "나트륨",
+                "protein_g": "단백질",
+                "saturated_fat_g": "포화지방",
+                "calories_kcal": "칼로리"
+            }
+            for meta_key, nutrition_key in nutrition_keys.items():
+                value_str = nutrition_info.get(nutrition_key, "0")
+                # Handle potential float values by splitting at '.' first
+                numeric_part = "".join(filter(str.isdigit, value_str.split('.')[0]))
+                metadata[meta_key] = int(numeric_part) if numeric_part else 0
+
+        documents.append(Document(
+            page_content=content + nutrition_str, 
+            metadata=metadata
+        ))
 
     # Initialize embeddings and vector store
     embeddings = OpenAIEmbeddings()
-    
-    # Create a persistent ChromaDB instance
-    persist_directory = "chroma_db"
-    if not os.path.exists(persist_directory):
-        os.makedirs(persist_directory)
-        
-    # Check if the collection already exists and has documents
-    # This is a workaround as ChromaDB's from_documents doesn't have an overwrite option
-    try:
-        vectorstore = Chroma(persist_directory=persist_directory, embedding_function=embeddings)
-        if vectorstore._collection.count() == 0: # If collection is empty, add documents
-            print("Creating new ChromaDB collection...")
-            vectorstore = Chroma.from_documents(documents, embeddings, persist_directory=persist_directory)
-        else:
-            print("Loading existing ChromaDB collection...")
-    except Exception as e:
-        print(f"Error loading/creating ChromaDB: {e}. Recreating...")
-        vectorstore = Chroma.from_documents(documents, embeddings, persist_directory=persist_directory)
+    persist_directory = "chroma_db_self_query"
+    vectorstore = Chroma.from_documents(documents, embeddings, persist_directory=persist_directory)
 
+    # Define metadata fields for the self-querying retriever
+    metadata_field_info = [
+        AttributeInfo(
+            name="brand",
+            description="음료의 브랜드. 사용자가 '스타벅스'를 언급하면 'Starbucks'를, '이디야'를 언급하면 'Ediya'를, '공차'를 언급하면 'Gong Cha'를 사용해야 합니다.",
+            type="string",
+        ),
+        AttributeInfo(
+            name="name",
+            description="음료의 이름.",
+            type="string",
+        ),
+        AttributeInfo(
+            name="category",
+            description="메뉴의 카테고리. 예를 들어, 공차의 카테고리는 '밀크티', '스무디', '커피'를 포함합니다.",
+            type="string",
+        ),
+        AttributeInfo(
+            name="caffeine_mg",
+            description="음료의 카페인 함량 (밀리그램 단위).",
+            type="integer",
+        ),
+        AttributeInfo(
+            name="sugars_g",
+            description="음료의 당류 함량 (g 단위).",
+            type="integer",
+        ),
+        AttributeInfo(
+            name="sodium_mg",
+            description="음료의 나트륨 함량 (밀리그램 단위).",
+            type="integer",
+        ),
+        AttributeInfo(
+            name="protein_g",
+            description="음료의 단백질 함량 (g 단위).",
+            type="integer",
+        ),
+        AttributeInfo(
+            name="saturated_fat_g",
+            description="음료의 포화지방 함량 (g 단위).",
+            type="integer",
+        ),
+        AttributeInfo(
+            name="calories_kcal",
+            description="음료의 칼로리 또는 열량 (kcal 단위).",
+            type="integer",
+        ),
+    ]
+    document_content_description = "커피 및 음료 메뉴에 대한 정보"
 
-    # Initialize LLM and ConversationalRetrievalChain
+    # Initialize LLM and SelfQueryRetriever
     llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
-    qa_chain = ConversationalRetrievalChain.from_llm(llm, vectorstore.as_retriever())
+    retriever = SelfQueryRetriever.from_llm(
+        llm,
+        vectorstore,
+        document_content_description,
+        metadata_field_info,
+        verbose=True
+    )
+
+    # Create the final chain
+    qa_chain = ConversationalRetrievalChain.from_llm(llm, retriever)
     
     return qa_chain
+
+
+
+
+
 
 # --- Kiosk Mode ---
 def display_menu_item_details(item):

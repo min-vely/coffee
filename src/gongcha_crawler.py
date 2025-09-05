@@ -93,23 +93,39 @@ def get_gongcha_menu():
                     description = soup.select_one("div.text-a p.t2").get_text(strip=True)
                     image_url_path = soup.select_one("div.picture img")['src']
                     
-                    raw_nutrition_info = {}
+                    formatted_nutrition_info = {}
                     table = soup.select_one("div.table-item table")
                     if table:
-                        headers = [th.get_text(strip=True) for th in table.select("thead th")][2:]
-                        values = [td.get_text(strip=True) for td in table.select("tbody td")][2:]
-                        raw_nutrition_info = dict(zip(headers, values))
+                        # Get all headers, clean them
+                        headers = [th.get_text(strip=True).split('(')[0].strip() for th in table.select("thead th")]
+                        
+                        # Get values from the first data row only
+                        first_row_values = [td.get_text(strip=True) for td in table.select("tbody tr:first-child td")]
 
-                    formatted_nutrition_info = {}
-                    for key, value in raw_nutrition_info.items():
-                        if not value or value == '-': continue
-                        clean_key = key.split('(')[0].strip()
-                        new_value = value
-                        if clean_key == '열량': clean_key = '칼로리'
-                        if clean_key == '칼로리': new_value = f"{value}kcal"
-                        elif clean_key in ['당류', '단백질', '포화지방']: new_value = f"{value}g"
-                        elif clean_key in ['나트륨', '카페인']: new_value = f"{value}mg"
-                        formatted_nutrition_info[clean_key] = new_value
+                        # Fix for colspan=2 issue: Insert a dummy header to align lists
+                        if "구분" in headers[0] and len(first_row_values) == len(headers) + 1:
+                            headers.insert(1, "사이즈") # Add a placeholder for the second "구분" column
+
+                        full_nutrition_dict = dict(zip(headers, first_row_values))
+
+                        # Process and format the desired keys
+                        key_map = {
+                            "열량": "칼로리",
+                            "당류": "당류",
+                            "단백질": "단백질",
+                            "포화지방": "포화지방",
+                            "나트륨": "나트륨",
+                            "카페인": "카페인"
+                        }
+                        
+                        for original_key, new_key in key_map.items():
+                            value = full_nutrition_dict.get(original_key)
+                            if value and value != '-':
+                                new_value = value
+                                if new_key == '칼로리': new_value = f"{value}kcal"
+                                elif new_key in ['당류', '단백질', '포화지방']: new_value = f"{value}g"
+                                elif new_key in ['나트륨', '카페인']: new_value = f"{value}mg"
+                                formatted_nutrition_info[new_key] = new_value
 
                     menu_data = {
                         "brand": "Gong Cha",
