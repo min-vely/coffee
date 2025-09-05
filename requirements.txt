@@ -6,6 +6,7 @@ pandas
 
 # LangChain Core and Components
 langchain
+langchain-community
 langchain-openai
 langchain-chroma
 
