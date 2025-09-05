@@ -1,0 +1,28 @@
+# Streamlit App Core
+streamlit
+
+# Data Handling
+pandas
+
+# LangChain Core and Components
+langchain
+langchain-openai
+langchain-chroma
+
+# Vector Store
+chromadb
+
+# OpenAI SDK (peer dependency for langchain-openai)
+openai
+
+# Environment Variables
+python-dotenv
+
+# Web Crawling (for crawlers)
+selenium
+webdriver-manager
+beautifulsoup4
+lxml
+
+# JSON processing (useful for LangChain)
+jq
