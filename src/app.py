@@ -164,29 +164,80 @@ def display_menu_grid(menu_data, brand_name):
                             st.session_state['selected_item'] = item
                             st.rerun()
 
+def get_categories(data):
+    """Extracts unique categories from menu data."""
+    categories = []
+    for item in data:
+        cat = item.get('category')
+        if cat and cat not in categories:
+            categories.append(cat)
+    return categories
+
 def kiosk_mode(starbucks_data, ediya_data, gongcha_data):
     """Renders the Kiosk UI."""
     if 'selected_item' in st.session_state:
         display_menu_item_details(st.session_state['selected_item'])
-    else:
-        st.header("키오스크 모드")
-        
-        # Initialize active_brand if not already set
-        if 'active_brand' not in st.session_state:
-            st.session_state.active_brand = "스타벅스"
+        return
 
-        brand_options = ["스타벅스", "이디야", "공차"]
-        
-        selected_brand = st.radio("브랜드 선택", brand_options, key="brand_selector", index=brand_options.index(st.session_state.active_brand))
-        
+    st.header("키오스크 모드")
+
+    # Initialize session state
+    if 'active_brand' not in st.session_state:
+        st.session_state.active_brand = "스타벅스"
+    if 'active_category' not in st.session_state:
+        st.session_state.active_category = None
+
+    brand_options = ["스타벅스", "이디야", "공차"]
+    brand_data_map = {
+        "스타벅스": starbucks_data,
+        "이디야": ediya_data,
+        "공차": gongcha_data
+    }
+
+    # Brand selection
+    selected_brand = st.radio(
+        "브랜드 선택",
+        brand_options,
+        index=brand_options.index(st.session_state.active_brand),
+        horizontal=True,
+        key='brand_selector'
+    )
+
+    # If brand changed, update state and rerun
+    if selected_brand != st.session_state.active_brand:
         st.session_state.active_brand = selected_brand
+        st.session_state.active_category = None # Reset category
+        st.rerun()
 
-        if selected_brand == "스타벅스":
-            display_menu_grid(starbucks_data, "스타벅스")
-        elif selected_brand == "이디야":
-            display_menu_grid(ediya_data, "이디야")
-        elif selected_brand == "공차":
-            display_menu_grid(gongcha_data, "공차")
+    # Category selection
+    current_data = brand_data_map[st.session_state.active_brand]
+    categories = get_categories(current_data)
+
+    if not categories:
+        st.warning(f"{st.session_state.active_brand}에는 카테고리가 없습니다.")
+        display_menu_grid(current_data, st.session_state.active_brand)
+        return
+
+    # Initialize category if it's not set or invalid
+    if st.session_state.active_category is None or st.session_state.active_category not in categories:
+        st.session_state.active_category = categories[0]
+
+    selected_category = st.radio(
+        "카테고리 선택",
+        categories,
+        index=categories.index(st.session_state.active_category),
+        horizontal=True,
+        key='category_selector'
+    )
+
+    # If category changed, update state and rerun
+    if selected_category != st.session_state.active_category:
+        st.session_state.active_category = selected_category
+        st.rerun()
+
+    # Filter and display
+    filtered_menu = [item for item in current_data if item.get('category') == st.session_state.active_category]
+    display_menu_grid(filtered_menu, st.session_state.active_brand)
 
 # --- Chatbot Mode ---
 @st.cache_data
