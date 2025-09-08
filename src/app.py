@@ -140,32 +140,32 @@ def setup_rag_pipeline(starbucks_data, ediya_data, gongcha_data):
         ),
         AttributeInfo(
             name="caffeine_mg",
-            description="음료의 카페인 함량 (밀리그램 단위).",
+            description="음료의 카페인 함량 (밀리그램 단위). 숫자 값만 사용해야 합니다 (예: 50, 100).",
             type="integer",
         ),
         AttributeInfo(
             name="sugars_g",
-            description="음료의 당류 함량 (g 단위).",
+            description="음료의 당류 함량 (g 단위). 숫자 값만 사용해야 합니다 (예: 10, 20).",
             type="integer",
         ),
         AttributeInfo(
             name="sodium_mg",
-            description="음료의 나트륨 함량 (밀리그램 단위).",
+            description="음료의 나트륨 함량 (밀리그램 단위). 숫자 값만 사용해야 합니다 (예: 100, 200).",
             type="integer",
         ),
         AttributeInfo(
             name="protein_g",
-            description="음료의 단백질 함량 (g 단위).",
+            description="음료의 단백질 함량 (g 단위). 숫자 값만 사용해야 합니다 (예: 5, 10).",
             type="integer",
         ),
         AttributeInfo(
             name="saturated_fat_g",
-            description="음료의 포화지방 함량 (g 단위).",
+            description="음료의 포화지방 함량 (g 단위). 숫자 값만 사용해야 합니다 (예: 5, 10).",
             type="integer",
         ),
         AttributeInfo(
             name="calories_kcal",
-            description="음료의 칼로리 또는 열량 (kcal 단위).",
+            description="음료의 칼로리 또는 열량 (kcal 단위). 숫자 값만 사용해야 합니다 (예: 100, 200).",
             type="integer",
         ),
     ]
