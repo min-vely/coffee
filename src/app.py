@@ -373,8 +373,8 @@ def chatbot_mode(qa_chain):
 # --- Main App ---
 def main():
     """Main function to run the Streamlit app."""
-    st.set_page_config(layout="wide", page_title="커피 프랜차이즈 메뉴 정보 및 추천 시스템")
-    st.title("커피 프랜차이즈 메뉴 정보 및 추천 시스템")
+    st.set_page_config(layout="wide", page_title="DEBUG: 커피 프랜차이즈 메뉴 정보 및 추천 시스템")
+    st.title("DEBUG: 커피 프랜차이즈 메뉴 정보 및 추천 시스템")
 
     load_dotenv()
 
