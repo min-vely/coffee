@@ -66,20 +66,32 @@ def setup_rag_pipeline(starbucks_data, ediya_data, gongcha_data):
     all_menu_items = starbucks_data + ediya_data + gongcha_data
     documents = []
     for item in all_menu_items:
-        content = f"""브랜드: {item.get('brand')}
-메뉴 이름: {item.get('name')}
-카테고리: {item.get('category')}
-설명: {item.get('description')}
+        # Ensure all parts of the content are strings, defaulting to an empty string
+        brand = item.get('brand') or ''
+        name = item.get('name') or ''
+        category = item.get('category') or ''
+        description = item.get('description') or ''
+
+        # Create the main content string
+        content = f"""브랜드: {brand}
+메뉴 이름: {name}
+카테고리: {category}
+설명: {description}
 """
         
         nutrition_str = ""
         if item.get('nutrition'):
             nutrition_str = "영양 정보:\n" + "\n".join([f"  {k}: {v}" for k, v in item['nutrition'].items()])
 
+        # Ensure the final page_content is a non-empty string
+        final_content = (content + "\n" + nutrition_str).strip()
+        if not final_content or not name: # Skip items with no name and no content
+            continue
+
         metadata = {
-            "brand": item.get('brand'), 
-            "name": item.get('name'),
-            "category": item.get('category'),
+            "brand": brand,
+            "name": name,
+            "category": category,
         }
         
         # Parse all nutrition facts for metadata
@@ -100,7 +112,7 @@ def setup_rag_pipeline(starbucks_data, ediya_data, gongcha_data):
                 metadata[meta_key] = int(numeric_part) if numeric_part else 0
 
         documents.append(Document(
-            page_content=content + nutrition_str, 
+            page_content=final_content,
             metadata=metadata
         ))
 
@@ -393,7 +405,7 @@ def chatbot_mode(qa_chain):
             # Prepare chat history for the chain
             chat_history = [(msg["content"], "") if msg["role"] == "user" else ("", msg["content"]) for msg in st.session_state.messages[:-1]]
             
-            response = qa_chain({"question": st.session_state.messages[-1]["content"], "chat_history": chat_history})
+            response = qa_chain.invoke({"question": st.session_state.messages[-1]["content"], "chat_history": chat_history})
             ai_response = response["answer"]
 
             # Display assistant response in chat message container
