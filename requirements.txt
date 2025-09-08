@@ -29,3 +29,4 @@ lxml
 
 # JSON processing (useful for LangChain)
 jq
+lark
