@@ -403,7 +403,14 @@ def chatbot_mode(qa_chain):
         with st.spinner("생각 중..."):
             # Get AI response
             # Prepare chat history for the chain
-            chat_history = [(msg["content"], "") if msg["role"] == "user" else ("", msg["content"]) for msg in st.session_state.messages[:-1]]
+            chat_history = []
+            # Correctly pair user and assistant messages for history
+            for i in range(0, len(st.session_state.messages[:-1]), 2):
+                user_msg = st.session_state.messages[i]
+                if i + 1 < len(st.session_state.messages[:-1]):
+                    assistant_msg = st.session_state.messages[i+1]
+                    if user_msg["role"] == "user" and assistant_msg["role"] == "assistant":
+                        chat_history.append((user_msg["content"], assistant_msg["content"]))
             
             response = qa_chain.invoke({"question": st.session_state.messages[-1]["content"], "chat_history": chat_history})
             ai_response = response["answer"]
