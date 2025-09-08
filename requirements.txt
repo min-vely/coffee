@@ -3,13 +3,13 @@ streamlit==1.49.1
 
 # Data Handling
 pandas==2.3.2
-numpy==2.1.0
+numpy
 
 # LangChain Core and Components
 langchain==0.3.27
-langchain-community==0.3.29
+langchain-community
 langchain-openai==0.3.32
-langchain-chroma==0.2.3
+langchain-chroma
 langchain-core==0.3.75
 langchain-text-splitters==0.3.9
 # Core dependencies for LangChain
@@ -19,7 +19,7 @@ lark==1.2.2
 
 # Vector Store
 # Pin chromadb version and add pysqlite3-binary to fix deployment issues on Streamlit Cloud
-chromadb==0.5.3
+chromadb
 pysqlite3-binary; sys_platform == "linux"
 
 # OpenAI SDK (peer dependency for langchain-openai)
