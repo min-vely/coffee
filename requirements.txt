@@ -3,7 +3,7 @@ streamlit==1.49.1
 
 # Data Handling
 pandas==2.3.2
-numpy==1.26.4
+numpy==2.1.0
 
 # LangChain Core and Components
 langchain==0.3.27
